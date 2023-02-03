@@ -20,18 +20,23 @@
       "hooks": {
         "pre-commit": "yarn lint-staged && yarn check:type"
       }
-  }
+    }
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mdx-js/react": "v1",
     "@next/font": "13.1.6",
     "@types/node": "18.11.18",
     "@types/react": "18.0.27",
     "@types/react-dom": "18.0.10",
+    "axios": "^1.3.1",
     "eslint": "^8.33.0",
     "eslint-config-next": "13.1.6",
+    "gatsby-plugin-theme-ui": "^0.15.4",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "theme-ui": "^0.15.4",
     "typescript": "4.9.5"
   },
   "devDependencies": {
