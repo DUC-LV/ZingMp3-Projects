@@ -1,9 +1,86 @@
-import React from "react";
+import React, { useState, useEffect} from "react";
 import { Box } from "theme-ui";
+import ReponsiveContainer from "../components/ReponsiveContainer";
+import Slide from "../components/Slide";
+import getBanners from "../service/getBanners";
+import getPlaylists from "../service/getPlaylists";
+interface DataSlide {
+	encodeId: string,
+	banner: string,
+	title: string,
+	sectionType: string,
+	sortDescription: string,
+}
+interface DataSlideShow {
+	encodeId: string,
+	thumbnailM: string,
+	title: string,
+	sectionType: string,
+	sortDescription: string,
+}
 
 const Home = () => {
+	const [dataSlide, setDataSlide] = useState<Array<DataSlide>>();
+	const [dataSlideShow, setDataSlideShow] = useState<Array<DataSlideShow>>();
+	useEffect(() => {
+		getBanners.getAll().then(res => {
+			setDataSlide(res.data.items);
+		})
+		getPlaylists.getAll().then(res => {
+			setDataSlideShow(res.data);
+		})
+	}, [])
 	return(
-		<Box></Box>
+		<ReponsiveContainer>
+			<Slide
+				setting={{
+					infinite: true,
+					slidesToShow: 3,
+					slidesToScroll: 1,
+					autoplay: true,
+					autoplaySpeed: 4000,
+					pauseOnHover: true,
+					speed: 200,
+				}}
+				dataSlide={dataSlide?.map((item:DataSlide) => {
+					return {
+						id: item?.encodeId,
+						image: item?.banner,
+						title: '',
+						sortDescription: '',
+					}
+				})}
+				title=""
+				sectionType="banner"
+			/>
+			{dataSlideShow?.map((item:any, index) => {
+				return(
+					<Box key={index}>
+						<Slide
+							setting={{
+								infinite: true,
+								slidesToShow: 5,
+								slidesToScroll: 1,
+								autoplay: false,
+								autoplaySpeed: 0,
+								pauseOnHover: false,
+								speed: 0,
+							}}
+							dataSlide={item?.items?.map((item:DataSlideShow) => {
+								return {
+									id: item?.encodeId,
+									image: item?.thumbnailM,
+									title: item?.title,
+									sortDescription: item?.sortDescription,
+								}
+							})}
+							title={item?.title}
+							sectionType="playlist"
+						/>
+					</Box>
+				);
+			})}
+		</ReponsiveContainer>
 	);
 }
 export default Home;
