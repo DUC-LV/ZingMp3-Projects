@@ -1,0 +1,49 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "encodeId": "ZW6ACIC7",
+        "title": "Let It Go",
+        "alias": "Let-It-Go-The-Piano-Guys",
+        "isOffical": true,
+        "username": "mp3",
+        "artistsNames": "The Piano Guys",
+        "artists": [
+          {
+            "id": "IWZ988UO",
+            "name": "The Piano Guys",
+            "link": "/nghe-si/The-Piano-Guys",
+            "spotlight": false,
+            "alias": "The-Piano-Guys",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369386238.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369386238.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UB6ZAC8"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/2/6/260fd0de462cef9d2b8b715f5110ca4a_1393321743.jpg",
+        "link": "/video-clip/Let-It-Go-The-Piano-Guys/ZW6ACIC7.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/2/6/260fd0de462cef9d2b8b715f5110ca4a_1393321743.jpg",
+        "duration": 275,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZ988UO",
+          "name": "The Piano Guys",
+          "link": "/nghe-si/The-Piano-Guys",
+          "spotlight": false,
+          "alias": "The-Piano-Guys",
+          "playlistId": "6UB6ZAC8",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369386238.jpg"
+        }
+      }
+    ],
+    "total": 155,
+    "hasMore": true
+  },
+  "timestamp": 1675778475057
+}

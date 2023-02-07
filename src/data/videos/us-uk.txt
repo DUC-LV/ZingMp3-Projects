@@ -1,0 +1,687 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "encodeId": "ZW8WOI6U",
+        "title": "All Falls Down",
+        "alias": "All-Falls-Down-Alan-Walker-Noah-Cyrus-Digital-Farm-Animals",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Alan Walker, Noah Cyrus, Digital Farm Animals",
+        "artists": [
+          {
+            "id": "IWZA6CCW",
+            "name": "Alan Walker",
+            "link": "/Alan-Walker",
+            "spotlight": false,
+            "alias": "Alan-Walker",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZCU89E"
+          },
+          {
+            "id": "IWZAF76W",
+            "name": "Noah Cyrus",
+            "link": "/nghe-si/Noah-Cyrus",
+            "spotlight": false,
+            "alias": "Noah-Cyrus",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/3/c/c/93cc8be0cd2c739be3762ff02b539f27.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/3/c/c/93cc8be0cd2c739be3762ff02b539f27.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZODEFAZD"
+          },
+          {
+            "id": "IWZAZ80A",
+            "name": "Digital Farm Animals",
+            "link": "/nghe-si/Digital-Farm-Animals",
+            "spotlight": false,
+            "alias": "Digital-Farm-Animals",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/c/3/d/2c3d4cc0f842bb40ada64ecb4b7b0a31.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/c/3/d/2c3d4cc0f842bb40ada64ecb4b7b0a31.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZODEFAO0"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/5/a/5ac28db0054baa551ba8c8734e6ba55c_1509166055.jpg",
+        "link": "/video-clip/All-Falls-Down-Alan-Walker-Noah-Cyrus-Digital-Farm-Animals/ZW8WOI6U.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/5/a/5ac28db0054baa551ba8c8734e6ba55c_1509166055.jpg",
+        "duration": 220,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA6CCW",
+          "name": "Alan Walker",
+          "link": "/nghe-si/Alan-Walker",
+          "spotlight": false,
+          "alias": "Alan-Walker",
+          "playlistId": "ZWZCU89E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/4/a/9/a/4a9a2925d624795bf5cbbd1a94a8d96c.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW7I0OCD",
+        "title": "See You Again (Cover)",
+        "alias": "See-You-Again-Cover-Vicky-Nhung-Joycie-Pham",
+        "isOffical": true,
+        "username": "mp3",
+        "artistsNames": "Vicky Nhung, Joycie Phạm",
+        "artists": [
+          {
+            "id": "IWZAZOO6",
+            "name": "Vicky Nhung",
+            "link": "/Vicky-Nhung",
+            "spotlight": false,
+            "alias": "Vicky-Nhung",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/2/2/f/b22f46c0b5ec658bfe3abd62eb71c56e.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/2/2/f/b22f46c0b5ec658bfe3abd62eb71c56e.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZODFZI8B"
+          },
+          {
+            "id": "IWZAZOO7",
+            "name": "Joycie Phạm",
+            "link": "/nghe-si/Joycie-Pham",
+            "spotlight": false,
+            "alias": "Joycie-Pham",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/9/89426e4cac692ff880150ff85a9a494b_1431589400.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/9/89426e4cac692ff880150ff85a9a494b_1431589400.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UW9AE7D"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/6/6/666c979eeade73ee61ff183c60c8769a_1431589462.jpg",
+        "link": "/video-clip/See-You-Again-Cover-Vicky-Nhung-Joycie-Pham/ZW7I0OCD.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/6/6/666c979eeade73ee61ff183c60c8769a_1431589462.jpg",
+        "duration": 259,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZAZOO6",
+          "name": "Vicky Nhung",
+          "link": "/nghe-si/Vicky-Nhung",
+          "spotlight": false,
+          "alias": "Vicky-Nhung",
+          "playlistId": "ZODFZI8B",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/9/6/9/6/969662a70ad82b0d3fcb45cb6380998b.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/2/a/3/12a3e1cdb41b56f581b7604a452c6801.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWCZ7AEC",
+        "title": "Travel The World",
+        "alias": "Travel-The-World-Spookiz",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Spookiz",
+        "artists": [
+          {
+            "id": "IW6Z7AD9",
+            "name": "Spookiz",
+            "link": "/nghe-si/Spookiz",
+            "spotlight": false,
+            "alias": "Spookiz",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/e/d/4/4ed49660860b3dc91db4712bf2f894e8.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/e/d/4/4ed49660860b3dc91db4712bf2f894e8.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "689U9CCE"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/0/9/5/7/09577f9b392392ffecad09a772775f8f.jpg",
+        "link": "/video-clip/Travel-The-World-Spookiz/ZWCZ7AEC.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/0/9/5/7/09577f9b392392ffecad09a772775f8f.jpg",
+        "duration": 135,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW6Z7AD9",
+          "name": "Spookiz",
+          "link": "/nghe-si/Spookiz",
+          "spotlight": false,
+          "alias": "Spookiz",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/e/d/4/4ed49660860b3dc91db4712bf2f894e8.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW7UABEA",
+        "title": "Alone",
+        "alias": "Alone-Marshmello",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Marshmello",
+        "artists": [
+          {
+            "id": "IWZA7CE8",
+            "name": "Marshmello",
+            "link": "/Marshmello",
+            "spotlight": false,
+            "alias": "Marshmello",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/8/f/f/c8ffdd8d03d45777da6a7483c52a3b4f.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/8/f/f/c8ffdd8d03d45777da6a7483c52a3b4f.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZO6I7A79"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/2/2/22932972e1f543e6e1e09314ae02eac2_1467772504.jpg",
+        "link": "/video-clip/Alone-Marshmello/ZW7UABEA.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/2/2/22932972e1f543e6e1e09314ae02eac2_1467772504.jpg",
+        "duration": 199,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA7CE8",
+          "name": "Marshmello",
+          "link": "/nghe-si/Marshmello",
+          "spotlight": false,
+          "alias": "Marshmello",
+          "playlistId": "ZO6I7A79",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/f/6/6/b/f66b37481232d6ca2b43c07c3181ca65.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/8/f/f/c8ffdd8d03d45777da6a7483c52a3b4f.jpg"
+        }
+      },
+      {
+        "encodeId": "ZUWIB0AW",
+        "title": "STAY",
+        "alias": "STAY-The-Kid-LAROI-Justin-Bieber",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "The Kid LAROI, Justin Bieber",
+        "artists": [
+          {
+            "id": "IW6ZZFCF",
+            "name": "The Kid LAROI",
+            "link": "/nghe-si/The-Kid-LAROI",
+            "spotlight": false,
+            "alias": "The-Kid-LAROI",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/e/4/6/ae46196e8bb3901da611949f769a5c10.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/e/4/6/ae46196e8bb3901da611949f769a5c10.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6B7WAI0U"
+          },
+          {
+            "id": "IWZ9ZOCZ",
+            "name": "Justin Bieber",
+            "link": "/nghe-si/Justin-Bieber",
+            "spotlight": false,
+            "alias": "Justin-Bieber",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/9/b/e/19be49a80a4e72305e018697c03a58d1.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/9/b/e/19be49a80a4e72305e018697c03a58d1.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZWZCO00B"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/4/2/f/a/42fa68a14d3ebbbc0af180f6935c9196.jpg",
+        "link": "/video-clip/STAY-The-Kid-LAROI-Justin-Bieber/ZUWIB0AW.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/4/2/f/a/42fa68a14d3ebbbc0af180f6935c9196.jpg",
+        "duration": 158,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW6ZZFCF",
+          "name": "The Kid LAROI",
+          "link": "/nghe-si/The-Kid-LAROI",
+          "spotlight": false,
+          "alias": "The-Kid-LAROI",
+          "playlistId": "6B7WAI0U",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/4/d/d/e/4dde8b952e0ba96902eb6165735ef062.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/e/4/6/ae46196e8bb3901da611949f769a5c10.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW80E696",
+        "title": "Havana",
+        "alias": "Havana-Camila-Cabello-Young-Thug",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Camila Cabello, Young Thug",
+        "artists": [
+          {
+            "id": "IWZA66EW",
+            "name": "Camila Cabello",
+            "link": "/Camila-Cabello",
+            "spotlight": false,
+            "alias": "Camila-Cabello",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZO6990OC"
+          },
+          {
+            "id": "IWZ9C9D0",
+            "name": "Young Thug",
+            "link": "/nghe-si/Young-Thug",
+            "spotlight": false,
+            "alias": "Young-Thug",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/b/2/2eb2ca37f771b651476e05e6b433e67a.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/e/b/2/2eb2ca37f771b651476e05e6b433e67a.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZUO786W9"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/7/1/7/7/7177e279d0b39bacb48a46611de2f39e.jpg",
+        "link": "/video-clip/Havana-Camila-Cabello-Young-Thug/ZW80E696.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/7/1/7/7/7177e279d0b39bacb48a46611de2f39e.jpg",
+        "duration": 402,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA66EW",
+          "name": "Camila Cabello",
+          "link": "/nghe-si/Camila-Cabello",
+          "spotlight": false,
+          "alias": "Camila-Cabello",
+          "playlistId": "ZO6990OC",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/6/a/f/b/6afbd6406d3c96c4ed1261d0c946bde6.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWABOA0F",
+        "title": "On My Way",
+        "alias": "On-My-Way-Alan-Walker-Sabrina-Carpenter-Farruko",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Alan Walker, Sabrina Carpenter, Farruko",
+        "artists": [
+          {
+            "id": "IWZA6CCW",
+            "name": "Alan Walker",
+            "link": "/Alan-Walker",
+            "spotlight": false,
+            "alias": "Alan-Walker",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZCU89E"
+          },
+          {
+            "id": "IWZ9CUB9",
+            "name": "Sabrina Carpenter",
+            "link": "/nghe-si/Sabrina-Carpenter",
+            "spotlight": false,
+            "alias": "Sabrina-Carpenter",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/c/c/1/7cc1f3378ca955619f9389822a20e69f.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/c/c/1/7cc1f3378ca955619f9389822a20e69f.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UB6966U"
+          },
+          {
+            "id": "IWZAZ9OC",
+            "name": "Farruko",
+            "link": "/nghe-si/Farruko",
+            "spotlight": false,
+            "alias": "Farruko",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/b/2/a/ab2a1a455717f261a40fa46c2153dd4a.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/b/2/a/ab2a1a455717f261a40fa46c2153dd4a.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UB6A87Z"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/b/a/2/0/ba208abb79f62840a31ad805bbfdf14e.jpg",
+        "link": "/video-clip/On-My-Way-Alan-Walker-Sabrina-Carpenter-Farruko/ZWABOA0F.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/b/a/2/0/ba208abb79f62840a31ad805bbfdf14e.jpg",
+        "duration": 202,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA6CCW",
+          "name": "Alan Walker",
+          "link": "/nghe-si/Alan-Walker",
+          "spotlight": false,
+          "alias": "Alan-Walker",
+          "playlistId": "ZWZCU89E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/4/a/9/a/4a9a2925d624795bf5cbbd1a94a8d96c.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW7O8OI9",
+        "title": "Faded",
+        "alias": "Faded-Alan-Walker",
+        "isOffical": true,
+        "username": "mp3",
+        "artistsNames": "Alan Walker",
+        "artists": [
+          {
+            "id": "IWZA6CCW",
+            "name": "Alan Walker",
+            "link": "/Alan-Walker",
+            "spotlight": false,
+            "alias": "Alan-Walker",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZCU89E"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/1/6/16b17cc76539abb6c505625ae68f4831_1454405421.jpg",
+        "link": "/video-clip/Faded-Alan-Walker/ZW7O8OI9.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/1/6/16b17cc76539abb6c505625ae68f4831_1454405421.jpg",
+        "duration": 212,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA6CCW",
+          "name": "Alan Walker",
+          "link": "/nghe-si/Alan-Walker",
+          "spotlight": false,
+          "alias": "Alan-Walker",
+          "playlistId": "ZWZCU89E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/4/a/9/a/4a9a2925d624795bf5cbbd1a94a8d96c.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW7UBDZB",
+        "title": "Nevada",
+        "alias": "Nevada-Vicetone-Cozi-Zuehlsdorff",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Vicetone, Cozi Zuehlsdorff",
+        "artists": [
+          {
+            "id": "IWZAO6WW",
+            "name": "Vicetone",
+            "link": "/nghe-si/Vicetone",
+            "spotlight": false,
+            "alias": "Vicetone",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/3/9/e/839e528299cde119add314f7d277fc65.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/3/9/e/839e528299cde119add314f7d277fc65.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UB6AZ98"
+          },
+          {
+            "id": "IWZA7D99",
+            "name": "Cozi Zuehlsdorff",
+            "link": "/nghe-si/Cozi-Zuehlsdorff",
+            "spotlight": false,
+            "alias": "Cozi-Zuehlsdorff",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/8/f/c/c8fc7f8370f4e376c012320711f546d3.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/8/f/c/c8fc7f8370f4e376c012320711f546d3.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6B7W89FC"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/d/4/d44954c76d8ec552f1383feba4ffde78_1469068965.jpg",
+        "link": "/video-clip/Nevada-Vicetone-Cozi-Zuehlsdorff/ZW7UBDZB.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/d/4/d44954c76d8ec552f1383feba4ffde78_1469068965.jpg",
+        "duration": 208,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZAO6WW",
+          "name": "Vicetone",
+          "link": "/nghe-si/Vicetone",
+          "spotlight": false,
+          "alias": "Vicetone",
+          "playlistId": "6UB6AZ98",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover3_artist/2/2/222f2e8b6c091455d4e9ef9ec950b2e6_1445229070.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/3/9/e/839e528299cde119add314f7d277fc65.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW78AWZF",
+        "title": "Alone",
+        "alias": "Alone-Alan-Walker",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Alan Walker",
+        "artists": [
+          {
+            "id": "IWZA6CCW",
+            "name": "Alan Walker",
+            "link": "/Alan-Walker",
+            "spotlight": false,
+            "alias": "Alan-Walker",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZCU89E"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/a/5/d/6/a5d6dde803be0fa52d00425458058ca6.jpg",
+        "link": "/video-clip/Alone-Alan-Walker/ZW78AWZF.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/a/5/d/6/a5d6dde803be0fa52d00425458058ca6.jpg",
+        "duration": 163,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA6CCW",
+          "name": "Alan Walker",
+          "link": "/nghe-si/Alan-Walker",
+          "spotlight": false,
+          "alias": "Alan-Walker",
+          "playlistId": "ZWZCU89E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/4/a/9/a/4a9a2925d624795bf5cbbd1a94a8d96c.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW67D6D9",
+        "title": "Wrecking Ball",
+        "alias": "Wrecking-Ball-Miley-Cyrus",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Miley Cyrus",
+        "artists": [
+          {
+            "id": "IWZ9ZO96",
+            "name": "Miley Cyrus",
+            "link": "/Miley-Cyrus",
+            "spotlight": false,
+            "alias": "Miley-Cyrus",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/a/2/b/9a2b8fb6e2306e7c14608702b4e1f46a.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/a/2/b/9a2b8fb6e2306e7c14608702b4e1f46a.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZAE9OD"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/d/d/ddcd29c6d1eed120a6a20a6a9fe0ffe5_1378800263.jpg",
+        "link": "/video-clip/Wrecking-Ball-Miley-Cyrus/ZW67D6D9.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/d/d/ddcd29c6d1eed120a6a20a6a9fe0ffe5_1378800263.jpg",
+        "duration": 221,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZ9ZO96",
+          "name": "Miley Cyrus",
+          "link": "/nghe-si/Miley-Cyrus",
+          "spotlight": false,
+          "alias": "Miley-Cyrus",
+          "playlistId": "ZWZAE9OD",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/a/2/b/9a2b8fb6e2306e7c14608702b4e1f46a.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW8I90UC",
+        "title": "The Spectre",
+        "alias": "The-Spectre-Alan-Walker",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Alan Walker",
+        "artists": [
+          {
+            "id": "IWZA6CCW",
+            "name": "Alan Walker",
+            "link": "/Alan-Walker",
+            "spotlight": false,
+            "alias": "Alan-Walker",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZCU89E"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/9/7/4/3/97435a462ce27e54e538def928aaea85.jpg",
+        "link": "/video-clip/The-Spectre-Alan-Walker/ZW8I90UC.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/9/7/4/3/97435a462ce27e54e538def928aaea85.jpg",
+        "duration": 195,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA6CCW",
+          "name": "Alan Walker",
+          "link": "/nghe-si/Alan-Walker",
+          "spotlight": false,
+          "alias": "Alan-Walker",
+          "playlistId": "ZWZCU89E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/4/a/9/a/4a9a2925d624795bf5cbbd1a94a8d96c.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWBE8DU6",
+        "title": "Mood",
+        "alias": "Mood-24KGoldn-Iann-Dior",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "24KGoldn, Iann Dior",
+        "artists": [
+          {
+            "id": "IW6ZW6IO",
+            "name": "24KGoldn",
+            "link": "/nghe-si/24KGoldn",
+            "spotlight": false,
+            "alias": "24KGoldn",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/8/0/3/d8039ed95d66b3e2e40369278d4c7778.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/8/0/3/d8039ed95d66b3e2e40369278d4c7778.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "689U9C9U"
+          },
+          {
+            "id": "IW67CZ9O",
+            "name": "Iann Dior",
+            "link": "/nghe-si/Iann-Dior",
+            "spotlight": false,
+            "alias": "Iann-Dior",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/8/7/7/78774efa2f9a7d8a0e3cb1d72a02c658.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/8/7/7/78774efa2f9a7d8a0e3cb1d72a02c658.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "689U9DWB"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/3/8/b/a/38ba6fbae232b1d74d068028c57cc332.jpg",
+        "link": "/video-clip/Mood-24KGoldn-Iann-Dior/ZWBE8DU6.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/3/8/b/a/38ba6fbae232b1d74d068028c57cc332.jpg",
+        "duration": 150,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW6ZW6IO",
+          "name": "24KGoldn",
+          "link": "/nghe-si/24KGoldn",
+          "spotlight": false,
+          "alias": "24KGoldn",
+          "playlistId": "689U9C9U",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/6/a/0/76a0b7d36245ab2cd5f4c419b1873ccd.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/8/0/3/d8039ed95d66b3e2e40369278d4c7778.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWABU99B",
+        "title": "Tomboy",
+        "alias": "Tomboy-Destiny-Rogers",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Destiny Rogers",
+        "artists": [
+          {
+            "id": "IW6UFW90",
+            "name": "Destiny Rogers",
+            "link": "/nghe-si/Destiny-Rogers",
+            "spotlight": false,
+            "alias": "Destiny-Rogers",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/0/8/5/d085f05d2e63f0a1846f7fc7f1f589b5.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/0/8/5/d085f05d2e63f0a1846f7fc7f1f589b5.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6B7W9EDU"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/a/6/b/2/a6b2e87d269f70bd8d047a7789f6475d.jpg",
+        "link": "/video-clip/Tomboy-Destiny-Rogers/ZWABU99B.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/a/6/b/2/a6b2e87d269f70bd8d047a7789f6475d.jpg",
+        "duration": 203,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW6UFW90",
+          "name": "Destiny Rogers",
+          "link": "/nghe-si/Destiny-Rogers",
+          "spotlight": false,
+          "alias": "Destiny-Rogers",
+          "playlistId": "6B7W9EDU",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/2/5/d/d/25dde4f86d1f1e76250bfabe88b1b40e.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/0/8/5/d085f05d2e63f0a1846f7fc7f1f589b5.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWAFD97W",
+        "title": "Scatman (ski-ba-bop-ba-dop-bop)",
+        "alias": "Scatman-ski-ba-bop-ba-dop-bop-Spookiz",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Spookiz",
+        "artists": [
+          {
+            "id": "IW6Z7AD9",
+            "name": "Spookiz",
+            "link": "/nghe-si/Spookiz",
+            "spotlight": false,
+            "alias": "Spookiz",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/e/d/4/4ed49660860b3dc91db4712bf2f894e8.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/e/d/4/4ed49660860b3dc91db4712bf2f894e8.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "689U9CCE"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/0/d/3/1/0d313ba04ea4c7e62d511735a2d0235a.jpg",
+        "link": "/video-clip/Scatman-ski-ba-bop-ba-dop-bop-Spookiz/ZWAFD97W.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/0/d/3/1/0d313ba04ea4c7e62d511735a2d0235a.jpg",
+        "duration": 142,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW6Z7AD9",
+          "name": "Spookiz",
+          "link": "/nghe-si/Spookiz",
+          "spotlight": false,
+          "alias": "Spookiz",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/e/d/4/4ed49660860b3dc91db4712bf2f894e8.jpg"
+        }
+      }
+    ],
+    "total": 500,
+    "hasMore": true
+  },
+  "timestamp": 1675778324229
+}
