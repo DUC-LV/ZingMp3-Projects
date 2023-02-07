@@ -30,7 +30,7 @@ const Home = () => {
 				setDataSlide(res.data.items);
 				setLoading(false);
 			})
-		}, 200)
+		}, 1000)
 		getPlaylists.getAll().then(res => {
 			setDataSlideShow(res.data);
 		})
