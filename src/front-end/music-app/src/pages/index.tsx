@@ -49,6 +49,19 @@ const Home = () => {
 							autoplaySpeed: 4000,
 							pauseOnHover: true,
 							speed: 200,
+							responsive: [
+								{
+									breakpoint: 1350,
+									settings: {
+										infinite: true,
+										slidesToShow: 2,
+										slidesToScroll: 1,
+										autoplay: true,
+										autoplaySpeed: 4000,
+										pauseOnHover: true,
+									}
+								},
+							]
 						}}
 						dataSlide={dataSlide?.map((item:DataSlide) => {
 							return {
@@ -73,6 +86,19 @@ const Home = () => {
 										autoplaySpeed: 0,
 										pauseOnHover: false,
 										speed: 0,
+										responsive: [
+											{
+												breakpoint: 1350,
+												settings: {
+													infinite: true,
+													slidesToShow: 4,
+													slidesToScroll: 1,
+													autoplay: false,
+													autoplaySpeed: 0,
+													pauseOnHover: false,
+												}
+											},
+										]
 									}}
 									dataSlide={item?.items?.map((item:DataSlideShow) => {
 										return {

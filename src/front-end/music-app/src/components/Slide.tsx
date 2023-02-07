@@ -15,6 +15,19 @@ interface ConfigSlide {
 		autoplaySpeed: number,
 		pauseOnHover: boolean,
 		speed: number,
+		responsive: [
+			{
+				breakpoint: number,
+				settings: {
+					infinite: boolean,
+					slidesToShow: number,
+					slidesToScroll: number,
+					autoplay: boolean,
+					autoplaySpeed: number,
+					pauseOnHover: boolean,
+				}
+			}
+		]
 	}
 }
 export interface Data {

@@ -46,7 +46,7 @@ const Header = () => {
 		},
 		{
 			title: 'MV',
-			link: '',
+			link: '/videos/viet-nam',
 			icon: <AiOutlineVideoCamera color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
 		}
 
@@ -113,7 +113,13 @@ const Header = () => {
 			<Flex sx={{ flexDirection: 'column', marginTop: '20px'}}>
 				{menu.map((item:any, index:any) => {
 					return(
-						<Box key={index} className={router.pathname == item.link ? "click-menu" : ""}>
+						<Box
+							key={index}
+							className={router.pathname == item.link ? "click-menu" : ""}
+							onClick={() => {
+								router.push(item.link)
+							}}
+						>
 							<Flex sx={{ height: '32px', padding: '8px 25px', alignItems: 'center', marginY: '5px' }}>
 								<Box
 									sx={{
@@ -143,7 +149,14 @@ const Header = () => {
 			<Flex sx={{ flexDirection: 'column', marginTop: '20px'}}>
 				{category.map((item:any, index:any) => {
 					return(
-						<Flex key={index} sx={{ height: '32px',padding: '8px 25px', alignItems: 'center', marginY: '5px' }}>
+						<Flex
+							key={index}
+							sx={{ height: '32px',padding: '8px 25px', alignItems: 'center', marginY: '5px' }}
+							onClick={() => {
+								router.push(item.link);
+							}}
+							className={router.asPath == item.link ? "click-menu" : ""}
+						>
 							<Box
 								sx={{
 									height: '20px',
