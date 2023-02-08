@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'banners',
     'playlists',
-    'videos'
+    'videos',
+    'playlist_detail',
 ]
 
 MIDDLEWARE = [
