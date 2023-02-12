@@ -20,9 +20,17 @@ export default LoadingHome;
 
 export const LoadingVideo = () => {
 	const arr = new Array(4).fill(0);
+	const arrMenu = new Array(5).fill(0);
 	return(
 		<SkeletonTheme baseColor="rgba(244,246,248,0.05)" highlightColor="rgba(244,246,248,0.05)">
 			<Box>
+				<Grid columns={9} gap={20} sx={{ marginBottom: '30px' }}>
+					{arrMenu.map(() => (
+						<Box key={Math.random()} sx={{ maxWidth: '100px' }}>
+							<Skeleton width={'100%'} height={'25px'}/>
+						</Box>
+					))}
+				</Grid>
 				{arr.map(() => (
 					<Box key={Math.random()} sx={{ marginY: '10px'}}>
 						<SkeletonVideo />

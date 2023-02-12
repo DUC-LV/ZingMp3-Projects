@@ -6,9 +6,9 @@ interface Data {
 	title?: string,
 	thumbnailM?: string,
 	duration?: string,
-	artistsNames?: string,
 	artist?: {
 		thumbnail?: string,
+		name?: string,
 	}
 }
 interface DataList {
@@ -92,7 +92,6 @@ const ListVideo = ({ dataList }: DataList) => {
 									<Box>
 										<TextOnline
 											onClick={() => {
-												console.log('haha')
 											}}
 											sx={{
 												color: 'rgba(255, 255, 255, 0.5)',
@@ -105,7 +104,7 @@ const ListVideo = ({ dataList }: DataList) => {
 													textDecoration: 'underline'
 												}
 											}}
-										>{item.artistsNames}</TextOnline>
+										>{item.artist?.name}</TextOnline>
 									</Box>
 								</Flex>
 							</Flex>

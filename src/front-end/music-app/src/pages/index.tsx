@@ -30,10 +30,10 @@ const Home = () => {
 				setDataSlide(res.data.items);
 				setLoading(false);
 			})
-		}, 1000)
-		getPlaylists.getAll().then(res => {
-			setDataSlideShow(res.data);
-		})
+			getPlaylists.getAll().then(res => {
+				setDataSlideShow(res.data);
+			})
+		}, 500)
 	}, [])
 	return(
 		<ReponsiveContainer>
