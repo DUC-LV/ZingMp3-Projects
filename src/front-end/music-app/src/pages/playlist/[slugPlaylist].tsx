@@ -32,7 +32,6 @@ const PlaylistDetail = () => {
 	const router = useRouter();
 	const [dataHeaderPlaylist, setDataHeaderPlaylist] = useState<DataHeaderPlaylist>();
 	const [dataSong, setDataSong] = useState<Array<DataListSong>>();
-	console.log(dataSong);
 	useEffect(() => {
 		if(router.query.key){
 			getPlaylistDetail.getAll(String(router.query.key)).then(res => {
@@ -67,7 +66,7 @@ const PlaylistDetail = () => {
 							thumbnail: item.thumbnail,
 							duration:item.duration,
 							album: {
-								title: item.title,
+								title: item.album.title,
 							},
 							artists: item.artists.map((items: any) => {
 								return {

@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Flex, Grid, Text } from "theme-ui";
+import { Box, Flex, Grid, Image } from "theme-ui";
 import { TextLineClamp, TextOnline } from "./Text";
 import { BiSortAlt2 } from "react-icons/bi";
 import { convertDuration } from "../untils";
@@ -22,7 +22,6 @@ interface DataSong {
 	dataSong?: Data[],
 }
 const ListSong = ({ description, dataSong }: DataSong) => {
-	console.log(dataSong);
 	return(
 		<Flex
 			sx={{
@@ -31,6 +30,7 @@ const ListSong = ({ description, dataSong }: DataSong) => {
 				flex: 'auto',
 				"@media screen and (max-width: 1200px)": {
 					marginX: '0',
+					marginTop: '20px'
 				}
 			}}>
 			<Flex sx={{
@@ -39,20 +39,12 @@ const ListSong = ({ description, dataSong }: DataSong) => {
 				},
 				marginBottom: '10px',
 			}}>
-				{/* <Text
-					sx={{ fontSize: '14px', color: 'hsla(0,0%,100%,0.5)', fontWeight: '600' }}>
-				Lời tựa:</Text> */}
 				<TextLineClamp
 					line={2}
 					sx={{ fontSize: '14px', fontWeight: '600', color: '#fff' }}>
 				{description}</TextLineClamp>
 			</Flex>
-			<Flex
-				sx={{
-					justifyContent: 'space-between',
-					paddingY: '10px',
-					alignItems: 'center',
-					borderBottom: '1px solid hsla(0,0%,100%,0.05)' }}>
+			<Grid sx={{ gridTemplateColumns: [3, '4fr 3fr 1fr']}}>
 				<Flex sx={{ alignItems: 'center' }}>
 					<BiSortAlt2 style={{ height: '20px', width: '14px', color: 'hsla(0,0%,100%,0.5)'}}/>
 					<TextOnline
@@ -60,31 +52,68 @@ const ListSong = ({ description, dataSong }: DataSong) => {
 					>Bài Hát</TextOnline>
 				</Flex>
 				<TextOnline
-					sx={{ fontSize: '14px', fontWeight: '600', color: 'hsla(0,0%,100%,0.5)' }}
+					sx={{ fontSize: '14px', fontWeight: '600', color: 'hsla(0,0%,100%,0.5)'}}
 				>Album</TextOnline>
 				<TextOnline
-					sx={{ fontSize: '14px', fontWeight: '600', color: 'hsla(0,0%,100%,0.5)' }}
+					sx={{ fontSize: '14px', fontWeight: '600', color: 'hsla(0,0%,100%,0.5)', textAlign: 'center' }}
 				>Thời Gian</TextOnline>
-			</Flex>
-			<Box sx={{ width: '100%' }}>
-				<Flex sx={{ flexDirection: 'column', width: '100%'}} >
+			</Grid>
+			<Box>
+				<Flex sx={{ flexDirection: 'column'}} >
 					{ dataSong?.map((item:any, index:any) => {
 						return(
-							<Flex
+							<Grid
 								key={index}
 								sx={{
-									justifyContent: 'space-between',
-									height: '40px', paddingY: '10px',
-									borderBottom: '1px solid hsla(0,0%,100%,0.05)'
-								}}>
-									<Flex sx={{ flex: 1 }}>haha</Flex>
-									<Flex sx={{ flex: 1 }}>
-										<TextOnline>{item.album.title}</TextOnline>
+									gridTemplateColumns: [3, '4fr 3fr 1fr'],
+									height: '60px', paddingY: '10px',
+									borderBottom: '1px solid hsla(0,0%,100%,0.05)',
+									":hover": {
+										background: '#ffffff1a',
+										borderRadius: '4px'
+									}
+								}}
+							>
+									<Flex sx={{ marginLeft: '25px' }}>
+										<Image
+											alt=""
+											src={item.thumbnail}
+											sx={{ height: '40px', width: '40px', borderRadius: '8px', cursor: 'pointer'}}
+										/>
+										<Flex
+											sx={{
+												marginLeft: '10px',
+												flexDirection: 'column',
+												justifyContent: 'space-around',
+											}}>
+											<TextOnline
+												sx={{ fontSize: '14px', color: 'white', fontWeight: '600'}}>
+												{item.title}
+											</TextOnline>
+											<Flex>
+												{item.artists.map((items:any, index:any) => {
+													return(
+														<TextOnline
+															key={index}
+															sx={{ fontSize: '10px', color: '#ffffff80', fontWeight: '500'}}
+														>{items.name}</TextOnline>
+													)
+												})}
+											</Flex>
+										</Flex>
 									</Flex>
-									<Flex sx={{ justifyContent: 'center', margin: '0 auto'}}>
-										<Text>{convertDuration(item.duration)}</Text>
+									<Flex sx={{ alignItems: 'center'}}>
+										<TextOnline
+											sx={{ fontSize: '14px', color: '#ffffff80', fontWeight: '500'}}>
+											{item.album.title}
+										</TextOnline>
 									</Flex>
-							</Flex>
+									<Flex sx={{ alignItems: 'center', justifyContent: 'center'}}>
+										<TextOnline sx={{fontSize: '14px', color: '#ffffff80'}}>
+											{convertDuration(item.duration)}
+										</TextOnline>
+									</Flex>
+							</Grid>
 						)
 					})}
 				</Flex>
