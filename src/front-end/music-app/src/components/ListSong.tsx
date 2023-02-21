@@ -3,8 +3,11 @@ import { Box, Flex, Grid, Image } from "theme-ui";
 import { TextLineClamp, TextOnline } from "./Text";
 import { BiSortAlt2 } from "react-icons/bi";
 import { convertDuration } from "../untils";
+import { useRouter } from "next/router";
 interface DataArtist {
     name?: string;
+	alias?: string;
+	id?: string;
 }
 interface Data {
 	title?: string,
@@ -22,6 +25,7 @@ interface DataSong {
 	dataSong?: Data[],
 }
 const ListSong = ({ description, dataSong }: DataSong) => {
+	const router = useRouter();
 	return(
 		<Flex
 			sx={{
@@ -93,10 +97,31 @@ const ListSong = ({ description, dataSong }: DataSong) => {
 											<Flex>
 												{item.artists.map((items:any, index:any) => {
 													return(
-														<TextOnline
+														<Box
 															key={index}
-															sx={{ fontSize: '10px', color: '#ffffff80', fontWeight: '500'}}
-														>{items.name}</TextOnline>
+															onClick={() => {
+																router.push({
+																	pathname: '../artist/[slugArtist]',
+																	query: {
+																		slugArtist: items.alias,
+																		id: items.id,
+																	}
+																})
+															}}
+														>
+															<TextOnline
+																sx={{
+																	fontSize: '10px',
+																	color: '#ffffff80',
+																	fontWeight: '500',
+																	cursor: 'pointer',
+																	":hover": {
+																		color: '#c273ed',
+																		textDecoration: 'underline',
+																	}
+																}}
+															>{items.name}</TextOnline>
+														</Box>
 													)
 												})}
 											</Flex>

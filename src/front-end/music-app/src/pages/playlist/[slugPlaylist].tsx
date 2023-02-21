@@ -15,6 +15,8 @@ interface DataHeaderPlaylist {
 }
 interface DataArtist {
     name?: string;
+	alias?: string;
+	id?: string;
 }
 interface DataListSong {
 	title?: string;
@@ -70,7 +72,9 @@ const PlaylistDetail = () => {
 							},
 							artists: item.artists.map((items: any) => {
 								return {
-									name: items.name
+									name: items.name,
+									id: items.id,
+									alias: items.alias,
 								}
 							})
 						}

@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'playlists',
     'videos',
     'playlist_detail',
+    'artist_detail'
 ]
 
 MIDDLEWARE = [
@@ -134,3 +135,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_ALL_ORIGINS = True
 ALLOWED_HOSTS = ['*']
 CORS_ALLOW_HEADERS = ['*']
+
+# tài khoản admin
+# user_name: duc
+# password: 080999

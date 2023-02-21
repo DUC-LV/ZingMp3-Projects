@@ -1,0 +1,4029 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "id": "IWZ97D7C",
+    "name": "Hoài Lâm",
+    "link": "/Hoai-Lam",
+    "spotlight": false,
+    "alias": "Hoai-Lam",
+    "playlistId": "ZWZBBFI9",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/2/72e90a6b088c99a8f093e2724d6217d1_1511498031.jpg",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+    "biography": "Hoài Lâm sinh ra trong gia đình nghệ thuật. Năm 13 tuổi, Hoài Lâm theo nghệ sĩ Hoài Linh học nghề hát và diễn xuất. Anh được Hoài Linh nhận làm con nuôi và đặt nghệ danh \"Hoài Lâm\". \n<br>Được Hoài Linh giới thiệu, Đàm Vĩnh Hưng nhận Hoài Lâm làm học trò và hướng dẫn luyện thanh.\n<br>Năm 2013, Hoài Lâm ra mắt album \"Về Đâu Mái Tóc Người Thương\".\n<br>Năm 2014, anh trở thành quán quân \"Gương mặt thân quen\" mùa 2, cho thấy khả năng hát tốt ở nhiều thể loại: bolero, trữ tình, nhạc trẻ.\n<br>Cùng năm, anh ra mắt ca khúc debut \"Như Những Phút Ban Đầu\", trở thành tên tuổi sáng giá của V-Pop.\n<br>Năm 2015, anh phát hành 2 album \"Quay Về\" và \"Cô Bé Ngày Xưa\".\n<br>Năm 2020, sau một thời gian vắng bóng, Hoài Lâm trở lại với hàng loạt ca khúc mới.",
+    "sortBiography": "Hoài Lâm được công chúng biết đến khi giành giải quán quân chương trình \"Gương mặt thân quen\" 2014. Có giọng hát tốt và tình cảm, anh theo đuổi dòng nhạc trữ tình, nhạc vàng, nhạc trẻ.",
+    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+    "national": "Việt Nam",
+    "birthday": "01/07/1995",
+    "realname": "Nguyễn Tuấn Lộc",
+    "totalFollow": 186347,
+    "follow": 186347,
+    "topAlbum": {
+      "encodeId": "6B88DIF7",
+      "title": "Con Chưa Kịp Nói (OST Vong Nhi) (Single)",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/b/c/4/1bc46d72258f091838327ffea504a3ff.jpg",
+      "isoffical": true,
+      "link": "/album/Con-Chua-Kip-Noi-OST-Vong-Nhi-Single-Hoai-Lam/6B88DIF7.html",
+      "isIndie": false,
+      "releaseDate": "02/02/2023",
+      "sortDescription": "",
+      "releasedAt": 1675306800000,
+      "genreIds": [
+        "IWZ9Z08I",
+        "IWZ9Z0BA",
+        "IWZ97FCD"
+      ],
+      "PR": false,
+      "artists": [
+        {
+          "id": "IWZ97D7C",
+          "name": "Hoài Lâm",
+          "link": "/Hoai-Lam",
+          "spotlight": false,
+          "alias": "Hoai-Lam",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+          "isOA": true,
+          "isOABrand": false,
+          "playlistId": "ZWZBBFI9",
+          "totalFollow": 186347
+        }
+      ],
+      "artistsNames": "Hoài Lâm",
+      "playItemMode": 0,
+      "subType": 1,
+      "uid": 730,
+      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/1/b/c/4/1bc46d72258f091838327ffea504a3ff.jpg",
+      "isShuffle": false,
+      "isPrivate": false,
+      "userName": "Zing MP3",
+      "isAlbum": true,
+      "textType": "Single",
+      "isSingle": true,
+      "distributor": ""
+    },
+    "oalink": "/Hoai-Lam",
+    "oaid": -1,
+    "sections": [
+      {
+        "sectionType": "song",
+        "viewType": "slider",
+        "title": "Bài hát nổi bật",
+        "link": "/Hoai-Lam/bai-hat",
+        "sectionId": "aSongs",
+        "items": [
+          {
+            "encodeId": "Z67UBB98",
+            "title": "Vô Cùng (Live)",
+            "alias": "Vo-Cung-Live-Bach-Cong-Khanh-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Bạch Công Khanh, Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97006",
+                "name": "Bạch Công Khanh",
+                "link": "/Bach-Cong-Khanh",
+                "spotlight": false,
+                "alias": "Bach-Cong-Khanh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/1/4/a/214ac789fa030100df1e32224f22da15.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/1/4/a/214ac789fa030100df1e32224f22da15.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOADOZDO"
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "link": "/bai-hat/Vo-Cung-Live-Bach-Cong-Khanh-Hoai-Lam/Z67UBB98.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "duration": 316,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1676919600,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": false
+          },
+          {
+            "encodeId": "Z67UBB9F",
+            "title": "Tấm Ảnh Không Hồn (Live)",
+            "alias": "Tam-Anh-Khong-Hon-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "link": "/bai-hat/Tam-Anh-Khong-Hon-Live-Hoai-Lam/Z67UBB9F.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "duration": 282,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1676919600,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": false
+          },
+          {
+            "encodeId": "Z67UBBAA",
+            "title": "Chuyện Tình Không Dĩ Vãng (Live)",
+            "alias": "Chuyen-Tinh-Khong-Di-Vang-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "link": "/bai-hat/Chuyen-Tinh-Khong-Di-Vang-Live-Hoai-Lam/Z67UBBAA.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "duration": 342,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1676919600,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": false
+          },
+          {
+            "encodeId": "Z67UBBAC",
+            "title": "Đồi Thông Hai Mộ (Live)",
+            "alias": "Doi-Thong-Hai-Mo-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "link": "/bai-hat/Doi-Thong-Hai-Mo-Live-Hoai-Lam/Z67UBBAC.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "duration": 364,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1676919600,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": false
+          },
+          {
+            "encodeId": "Z67UBBBE",
+            "title": "Chung Thân (Live)",
+            "alias": "Chung-Than-Live-Bach-Cong-Khanh-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Bạch Công Khanh, Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97006",
+                "name": "Bạch Công Khanh",
+                "link": "/Bach-Cong-Khanh",
+                "spotlight": false,
+                "alias": "Bach-Cong-Khanh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/1/4/a/214ac789fa030100df1e32224f22da15.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/1/4/a/214ac789fa030100df1e32224f22da15.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOADOZDO"
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "link": "/bai-hat/Chung-Than-Live-Bach-Cong-Khanh-Hoai-Lam/Z67UBBBE.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "duration": 264,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1676919600,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": false
+          },
+          {
+            "encodeId": "Z67UBBCW",
+            "title": "Rất Buồn (Live)",
+            "alias": "Rat-Buon-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "link": "/bai-hat/Rat-Buon-Live-Hoai-Lam/Z67UBBCW.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "duration": 340,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1676919600,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": false
+          },
+          {
+            "encodeId": "Z67UBBC6",
+            "title": "Xin Lỗi Vì Đã Yêu Nhau (Live)",
+            "alias": "Xin-Loi-Vi-Da-Yeu-Nhau-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "link": "/bai-hat/Xin-Loi-Vi-Da-Yeu-Nhau-Live-Hoai-Lam/Z67UBBC6.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/4/f/7/d4f7e226cdff020928fc9b61854f2258.jpg",
+            "duration": 288,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1676919600,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": false
+          },
+          {
+            "encodeId": "Z6UW0B8A",
+            "title": "Chia Cách Bình Yên (Live)",
+            "alias": "Chia-Cach-Binh-Yen-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "link": "/bai-hat/Chia-Cach-Binh-Yen-Live-Hoai-Lam/Z6UW0B8A.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "duration": 286,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1669604400,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z669BBZA",
+            "title": "Con Chưa Kịp Nói (OST Vong Nhi)",
+            "alias": "Con-Chua-Kip-Noi-OST-Vong-Nhi-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/5/e/5/35e597eea08f582e9141dbdbcfd2714d.jpg",
+            "link": "/bai-hat/Con-Chua-Kip-Noi-OST-Vong-Nhi-Hoai-Lam/Z669BBZA.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/5/e/5/35e597eea08f582e9141dbdbcfd2714d.jpg",
+            "duration": 206,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1675306800,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z0BA",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "6B88DIF7",
+              "title": "Con Chưa Kịp Nói (OST Vong Nhi) (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/b/c/4/1bc46d72258f091838327ffea504a3ff.jpg",
+              "isoffical": true,
+              "link": "/album/Con-Chua-Kip-Noi-OST-Vong-Nhi-Single-Hoai-Lam/6B88DIF7.html",
+              "isIndie": false,
+              "releaseDate": "02/02/2023",
+              "sortDescription": "",
+              "releasedAt": 1675306800000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z0BA",
+                "IWZ97FCD"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW6D0IBA",
+            "title": "Như Những Phút Ban Đầu",
+            "alias": "Nhu-Nhung-Phut-Ban-Dau-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+            "link": "/bai-hat/Nhu-Nhung-Phut-Ban-Dau-Hoai-Lam/ZW6D0IBA.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+            "duration": 335,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1388509200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "ZWZCZ0BC",
+              "title": "Chính Mình (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+              "isoffical": true,
+              "link": "/album/Chinh-Minh-Single-Hoai-Lam/ZWZCZ0BC.html",
+              "isIndie": false,
+              "releaseDate": "2016",
+              "sortDescription": "",
+              "releasedAt": 1483117200000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1284013894,
+            "isIndie": false,
+            "mvlink": "/video-clip/Nhu-Nhung-Phut-Ban-Dau-Hoai-Lam/ZW6D0IBA.html",
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6UW0B9O",
+            "title": "Nơi Tình Yêu Kết Thúc (Live)",
+            "alias": "Noi-Tinh-Yeu-Ket-Thuc-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "link": "/bai-hat/Noi-Tinh-Yeu-Ket-Thuc-Live-Hoai-Lam/Z6UW0B9O.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "duration": 318,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1669604400,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZZDFA6OI",
+            "title": "Hoa Nở Không Màu (Lofi Ver.)",
+            "alias": "Hoa-No-Khong-Mau-Lofi-Ver-Freak-D-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Freak D, Hoài Lâm",
+            "artists": [
+              {
+                "id": "IW67DFAE",
+                "name": "Freak D",
+                "link": "/nghe-si/Freak-D",
+                "spotlight": false,
+                "alias": "Freak-D",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/6/c/0/f6c025f38df30e99583f17d81dd0cb54.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/6/c/0/f6c025f38df30e99583f17d81dd0cb54.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UW9CZOI"
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/1/b/8/21b8a4dcf5c467a9b3004ef2c0538550.jpg",
+            "link": "/bai-hat/Hoa-No-Khong-Mau-Lofi-Ver-Freak-D-Hoai-Lam/ZZDFA6OI.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/2/1/b/8/21b8a4dcf5c467a9b3004ef2c0538550.jpg",
+            "duration": 220,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1656559560,
+            "genreIds": [
+              "IWZ97FCD",
+              "IWZ9Z08I"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6IBB6IU",
+            "title": "Cô Đơn Trong Nhà Mình",
+            "alias": "Co-Don-Trong-Nha-Minh-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/c/f/b/bcfbc22e8e18ccbca9889f0e0a995823.jpg",
+            "link": "/bai-hat/Co-Don-Trong-Nha-Minh-Hoai-Lam/Z6IBB6IU.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/c/f/b/bcfbc22e8e18ccbca9889f0e0a995823.jpg",
+            "duration": 310,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1592452800,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW9A89IA",
+            "title": "Nỗi Nhớ Mang Tên Mình (OST Cạm Bẫy - Hơi Thở Của Quỷ)",
+            "alias": "Noi-Nho-Mang-Ten-Minh-OST-Cam-Bay-Hoi-Tho-Cua-Quy-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/2/2/2219a6b83e4c197a3b9a99a225419cb9_1515154879.jpg",
+            "link": "/bai-hat/Noi-Nho-Mang-Ten-Minh-OST-Cam-Bay-Hoi-Tho-Cua-Quy-Hoai-Lam/ZW9A89IA.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/2/2/2219a6b83e4c197a3b9a99a225419cb9_1515154879.jpg",
+            "duration": 310,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "ZOACO7U6",
+              "title": "Nỗi Nhớ Mang Tên Mình (OST Cạm Bẫy - Hơi Thở Của Quỷ) (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/2/2/2219a6b83e4c197a3b9a99a225419cb9_1515154879.jpg",
+              "isoffical": true,
+              "link": "/album/Noi-Nho-Mang-Ten-Minh-OST-Cam-Bay-Hoi-Tho-Cua-Quy-Single-Hoai-Lam/ZOACO7U6.html",
+              "isIndie": false,
+              "releaseDate": "2018",
+              "sortDescription": "",
+              "releasedAt": 1546189200000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1285862535,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZWZCEIZZ",
+            "title": "Giọt Lệ Đài Trang",
+            "alias": "Giot-Le-Dai-Trang-Dam-Vinh-Hung-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Đàm Vĩnh Hưng, Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ9Z090",
+                "name": "Đàm Vĩnh Hưng",
+                "link": "/Dam-Vinh-Hung",
+                "spotlight": false,
+                "alias": "Dam-Vinh-Hung",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/f/9/5/6f95a5545394cf4b65830cab489788e8.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/f/9/5/6f95a5545394cf4b65830cab489788e8.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZAZCB7"
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1311755018.jpg",
+            "link": "/bai-hat/Giot-Le-Dai-Trang-Dam-Vinh-Hung-Hoai-Lam/ZWZCEIZZ.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1311755018.jpg",
+            "duration": 354,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B"
+            ],
+            "indicators": [],
+            "radioId": 1282723212,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW9B0E98",
+            "title": "Trộm Nhìn Nhau",
+            "alias": "Trom-Nhin-Nhau-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/d/0/7/cd072b2e80bef917724969a6ad40cd9c.jpg",
+            "link": "/bai-hat/Trom-Nhin-Nhau-Hoai-Lam/ZW9B0E98.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/d/0/7/cd072b2e80bef917724969a6ad40cd9c.jpg",
+            "duration": 313,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1420045200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B"
+            ],
+            "album": {
+              "encodeId": "ZOBOBAB0",
+              "title": "Nếu Biết Tình Yêu",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/d/0/7/cd072b2e80bef917724969a6ad40cd9c.jpg",
+              "isoffical": true,
+              "link": "/album/Neu-Biet-Tinh-Yeu-Various-Artists/ZOBOBAB0.html",
+              "isIndie": false,
+              "releaseDate": "01/01/2015",
+              "sortDescription": "",
+              "releasedAt": 1420045200000,
+              "genreIds": [
+                "IWZ9Z08I"
+              ],
+              "PR": false
+            },
+            "indicators": [],
+            "radioId": 1285876652,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW6EA7UW",
+            "title": "Có Khi",
+            "alias": "Co-Khi-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+            "link": "/bai-hat/Co-Khi-Hoai-Lam/ZW6EA7UW.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+            "duration": 255,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1388509200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "ZWZCZ0BC",
+              "title": "Chính Mình (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+              "isoffical": true,
+              "link": "/album/Chinh-Minh-Single-Hoai-Lam/ZWZCZ0BC.html",
+              "isIndie": false,
+              "releaseDate": "2016",
+              "sortDescription": "",
+              "releasedAt": 1483117200000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1284302358,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW79WFZ8",
+            "title": "Thói Đời",
+            "alias": "Thoi-Doi-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/2/1/4/b21405fbf67759a6e69f38d5a87b54a2.jpg",
+            "link": "/bai-hat/Thoi-Doi-Hoai-Lam/ZW79WFZ8.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/2/1/4/b21405fbf67759a6e69f38d5a87b54a2.jpg",
+            "duration": 266,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1451581200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B"
+            ],
+            "album": {
+              "encodeId": "ZOUDDBI0",
+              "title": "Chuyền Tình Không Dĩ Vãng",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/2/1/4/b21405fbf67759a6e69f38d5a87b54a2.jpg",
+              "isoffical": true,
+              "link": "/album/Chuyen-Tinh-Khong-Di-Vang-Various-Artists/ZOUDDBI0.html",
+              "isIndie": false,
+              "releaseDate": "01/01/2016",
+              "sortDescription": "",
+              "releasedAt": 1451581200000,
+              "genreIds": [
+                "IWZ9Z08I"
+              ],
+              "PR": false
+            },
+            "indicators": [],
+            "radioId": 1285402008,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW7I0ZWB",
+            "title": "Không Giờ Rồi",
+            "alias": "Khong-Gio-Roi-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/4/8/4840a19791fc500335432fbf5f332a06_1431760228.jpg",
+            "link": "/bai-hat/Khong-Gio-Roi-Hoai-Lam/ZW7I0ZWB.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/4/8/4840a19791fc500335432fbf5f332a06_1431760228.jpg",
+            "duration": 280,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B"
+            ],
+            "album": {
+              "encodeId": "ZWZBEIE0",
+              "title": "Cô Bé Ngày Xưa",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/4/8/4840a19791fc500335432fbf5f332a06_1431760228.jpg",
+              "isoffical": true,
+              "link": "/album/Co-Be-Ngay-Xua-Hoai-Lam/ZWZBEIE0.html",
+              "isIndie": false,
+              "releaseDate": "2015",
+              "sortDescription": "Album mới nhất của ca sỹ Hoài Lâm ra mắt ngày 16/05/2015, phát hành online trên Zing MP3",
+              "releasedAt": 1451494800000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z08B"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1284958688,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZO9DO9U0",
+            "title": "Xin Lỗi Vì Đã Yêu Nhau",
+            "alias": "Xin-Loi-Vi-Da-Yeu-Nhau-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/0/f/8/40f8a00cbbfe54a187c2bc90ff10d4c7.jpg",
+            "link": "/bai-hat/Xin-Loi-Vi-Da-Yeu-Nhau-Hoai-Lam/ZO9DO9U0.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/0/f/8/40f8a00cbbfe54a187c2bc90ff10d4c7.jpg",
+            "duration": 288,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1531674000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "67676FWI",
+              "title": "Xin Lỗi Vì Đã Yêu Nhau (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/0/f/8/40f8a00cbbfe54a187c2bc90ff10d4c7.jpg",
+              "isoffical": true,
+              "link": "/album/Xin-Loi-Vi-Da-Yeu-Nhau-Single-Hoai-Lam/67676FWI.html",
+              "isIndie": false,
+              "releaseDate": "16/07/2018",
+              "sortDescription": "",
+              "releasedAt": 1531674000000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088",
+                "IWZ97FCD"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1427051821,
+            "isIndie": false,
+            "mvlink": "/video-clip/Xin-Loi-Vi-Da-Yeu-Nhau-Hoai-Lam/ZO9DO9U0.html",
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6UW0AFF",
+            "title": "Hoa Nở Không Màu (Live New Ver.)",
+            "alias": "Hoa-No-Khong-Mau-Live-New-Ver-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "link": "/bai-hat/Hoa-No-Khong-Mau-Live-New-Ver-Hoai-Lam/Z6UW0AFF.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "duration": 334,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1669604400,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6OUO97B",
+            "title": "Cơn Mơ Băng Giá (Live)",
+            "alias": "Con-Mo-Bang-Gia-Live-Bach-Cong-Khanh-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Bạch Công Khanh, Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97006",
+                "name": "Bạch Công Khanh",
+                "link": "/Bach-Cong-Khanh",
+                "spotlight": false,
+                "alias": "Bach-Cong-Khanh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/1/4/a/214ac789fa030100df1e32224f22da15.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/1/4/a/214ac789fa030100df1e32224f22da15.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOADOZDO"
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/8/3/b/883bf04d8e5c5a458257dafba628b6f6.jpg",
+            "link": "/bai-hat/Con-Mo-Bang-Gia-Live-Bach-Cong-Khanh-Hoai-Lam/Z6OUO97B.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/8/3/b/883bf04d8e5c5a458257dafba628b6f6.jpg",
+            "duration": 285,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1665802800,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZUWUE869",
+            "title": "Nỗi Nhớ Mang Tên Mình (Acoustic Version)",
+            "alias": "Noi-Nho-Mang-Ten-Minh-Acoustic-Version-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/1/8/d/a18db515d7dbdf8e62e3ecfd38a6880a.jpg",
+            "link": "/bai-hat/Noi-Nho-Mang-Ten-Minh-Acoustic-Version-Hoai-Lam/ZUWUE869.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/1/8/d/a18db515d7dbdf8e62e3ecfd38a6880a.jpg",
+            "duration": 282,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1625922000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "68ACZAZC",
+              "title": "Nỗi Nhớ Mang Tên Mình (Acoustic Version) (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/f/7/7/4f77a4c31e156af1a3984173e2d67c58.jpg",
+              "isoffical": true,
+              "link": "/album/Noi-Nho-Mang-Ten-Minh-Acoustic-Version-Single-Hoai-Lam/68ACZAZC.html",
+              "isIndie": false,
+              "releaseDate": "10/07/2021",
+              "sortDescription": "",
+              "releasedAt": 1625850000000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088",
+                "IWZ97FCD"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1460645165,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW6D6DFW",
+            "title": "Có Khi Nào Rời Xa",
+            "alias": "Co-Khi-Nao-Roi-Xa-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/3/831704bd8964fbbe2357521b24b2aa4e_1467343772.jpg",
+            "link": "/bai-hat/Co-Khi-Nao-Roi-Xa-Hoai-Lam/ZW6D6DFW.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/8/3/831704bd8964fbbe2357521b24b2aa4e_1467343772.jpg",
+            "duration": 221,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1388509200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "radioId": 1284173498,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6OUOOID",
+            "title": "Buồn Làm Chi Em Ơi (Live)",
+            "alias": "Buon-Lam-Chi-Em-Oi-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "link": "/bai-hat/Buon-Lam-Chi-Em-Oi-Live-Hoai-Lam/Z6OUOOID.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "duration": 344,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1665802800,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW6D6DF6",
+            "title": "Gặp Mẹ Trong Mơ",
+            "alias": "Gap-Me-Trong-Mo-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/3/831704bd8964fbbe2357521b24b2aa4e_1467343772.jpg",
+            "link": "/bai-hat/Gap-Me-Trong-Mo-Hoai-Lam/ZW6D6DF6.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/8/3/831704bd8964fbbe2357521b24b2aa4e_1467343772.jpg",
+            "duration": 205,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1388509200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "radioId": 1284173519,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6UBI0DA",
+            "title": "Vòng Tay Ấm (Lofi Version)",
+            "alias": "Vong-Tay-Am-Lofi-Version-Hoai-Lam-Daddy-Lee-Le-Huu-Minh",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm, Daddy Lee, Lê Hữu Minh",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              },
+              {
+                "id": "IWZAZAI6",
+                "name": "Daddy Lee",
+                "link": "/nghe-si/Daddy-Lee",
+                "spotlight": false,
+                "alias": "Daddy-Lee",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/c/0/1/4c01b56cdae48ae81aa5310685883ecf.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/c/0/1/4c01b56cdae48ae81aa5310685883ecf.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W8679"
+              },
+              {
+                "id": "IWZA0UCO",
+                "name": "Lê Hữu Minh",
+                "link": "/nghe-si/Le-Huu-Minh",
+                "spotlight": false,
+                "alias": "Le-Huu-Minh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/8/18c960972860d539131530d19942c679_1444991142.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/8/18c960972860d539131530d19942c679_1444991142.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UW9A9D0"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/3/2/e/032e60d36170c9955a50079c3b4cb1d4.jpg",
+            "link": "/bai-hat/Vong-Tay-Am-Lofi-Version-Hoai-Lam-Daddy-Lee-Le-Huu-Minh/Z6UBI0DA.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/3/2/e/032e60d36170c9955a50079c3b4cb1d4.jpg",
+            "duration": 300,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1671883200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "6B7AWEF9",
+              "title": "Vòng Tay Ấm (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/8/1/3/b81391b43591d4666544ad9b4484f95b.jpg",
+              "isoffical": true,
+              "link": "/album/Vong-Tay-Am-Single-Hoai-Lam-Daddy-Lee-Le-Huu-Minh/6B7AWEF9.html",
+              "isIndie": false,
+              "releaseDate": "24/12/2022",
+              "sortDescription": "",
+              "releasedAt": 1671883200000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                },
+                {
+                  "id": "IWZAZAI6",
+                  "name": "Daddy Lee",
+                  "link": "/nghe-si/Daddy-Lee",
+                  "spotlight": false,
+                  "alias": "Daddy-Lee",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/c/0/1/4c01b56cdae48ae81aa5310685883ecf.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/c/0/1/4c01b56cdae48ae81aa5310685883ecf.jpg",
+                  "isOA": false,
+                  "isOABrand": false,
+                  "playlistId": "6B7W8679",
+                  "totalFollow": 113
+                },
+                {
+                  "id": "IWZA0UCO",
+                  "name": "Lê Hữu Minh",
+                  "link": "/nghe-si/Le-Huu-Minh",
+                  "spotlight": false,
+                  "alias": "Le-Huu-Minh",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/8/18c960972860d539131530d19942c679_1444991142.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/8/18c960972860d539131530d19942c679_1444991142.jpg",
+                  "isOA": false,
+                  "isOABrand": false,
+                  "playlistId": "6UW9A9D0",
+                  "totalFollow": 352
+                }
+              ],
+              "artistsNames": "Hoài Lâm, Daddy Lee, Lê Hữu Minh"
+            },
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6I9ZBWB",
+            "title": "Trách Hai Từ Thương Em",
+            "alias": "Trach-Hai-Tu-Thuong-Em-Hoai-Lam-Duy-Drake",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm, Duy Drake",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              },
+              {
+                "id": "IW7DA8BF",
+                "name": "Duy Drake",
+                "link": "/nghe-si/Duy-Drake",
+                "spotlight": false,
+                "alias": "Duy-Drake",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/5/e/b/f5eb67a2c1f4433ce5ec7197abded26a.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/5/e/b/f5eb67a2c1f4433ce5ec7197abded26a.jpg",
+                "isOA": false,
+                "isOABrand": false
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/f/6/4/1f646e7d5aa52b881649a1052c4129ef.jpg",
+            "link": "/bai-hat/Trach-Hai-Tu-Thuong-Em-Hoai-Lam-Duy-Drake/Z6I9ZBWB.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/f/6/4/1f646e7d5aa52b881649a1052c4129ef.jpg",
+            "duration": 330,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1664280000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "6B6I0DIO",
+              "title": "Trách Hai Từ Thương Em (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/7/e/f/a7ef74babeab78c0f9618a1835a1558a.jpg",
+              "isoffical": true,
+              "link": "/album/Trach-Hai-Tu-Thuong-Em-Single-Hoai-Lam-Duy-Drake/6B6I0DIO.html",
+              "isIndie": false,
+              "releaseDate": "27/09/2022",
+              "sortDescription": "",
+              "releasedAt": 1664280000000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                },
+                {
+                  "id": "IW7DA8BF",
+                  "name": "Duy Drake",
+                  "link": "/nghe-si/Duy-Drake",
+                  "spotlight": false,
+                  "alias": "Duy-Drake",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/5/e/b/f5eb67a2c1f4433ce5ec7197abded26a.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/5/e/b/f5eb67a2c1f4433ce5ec7197abded26a.jpg",
+                  "isOA": false,
+                  "isOABrand": false,
+                  "totalFollow": 37
+                }
+              ],
+              "artistsNames": "Hoài Lâm, Duy Drake"
+            },
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6UW0BB9",
+            "title": "Tuổi Nàng 15 (Live)",
+            "alias": "Tuoi-Nang-15-Live-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "link": "/bai-hat/Tuoi-Nang-15-Live-Hoai-Lam/Z6UW0BB9.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+            "duration": 288,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1669604400,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW9B0FB6",
+            "title": "Mùa Xuân Xa Quê",
+            "alias": "Mua-Xuan-Xa-Que-Mai-Thien-Van-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Mai Thiên Vân, Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ9ZB6O",
+                "name": "Mai Thiên Vân",
+                "link": "/Mai-Thien-Van",
+                "spotlight": false,
+                "alias": "Mai-Thien-Van",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_png/avatars/8/2/824eb9ccf73f67b430f7cdaafe64e67b_1513137350.png",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_png/avatars/8/2/824eb9ccf73f67b430f7cdaafe64e67b_1513137350.png",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBOZOD"
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/3/c/1/73c1fb4bec6f1daf98561ab9c35949b4.jpg",
+            "link": "/bai-hat/Mua-Xuan-Xa-Que-Mai-Thien-Van-Hoai-Lam/ZW9B0FB6.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/3/c/1/73c1fb4bec6f1daf98561ab9c35949b4.jpg",
+            "duration": 300,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1451581200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B",
+              "IWZ98I0D"
+            ],
+            "album": {
+              "encodeId": "ZOBODCWF",
+              "title": "Mãi Tìm Nhau",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/d/7/5/fd7509d4eb614388656e7f62b93b925c.jpg",
+              "isoffical": true,
+              "link": "/album/Mai-Tim-Nhau-Mai-Thien-Van/ZOBODCWF.html",
+              "isIndie": false,
+              "releaseDate": "01/01/2015",
+              "sortDescription": "",
+              "releasedAt": 1420045200000,
+              "genreIds": [
+                "IWZ9Z08I"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ9ZB6O",
+                  "name": "Mai Thiên Vân",
+                  "link": "/Mai-Thien-Van",
+                  "spotlight": false,
+                  "alias": "Mai-Thien-Van",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_png/avatars/8/2/824eb9ccf73f67b430f7cdaafe64e67b_1513137350.png",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_png/avatars/8/2/824eb9ccf73f67b430f7cdaafe64e67b_1513137350.png",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBOZOD",
+                  "totalFollow": 66298
+                }
+              ],
+              "artistsNames": "Mai Thiên Vân"
+            },
+            "indicators": [],
+            "radioId": 1285876728,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW6EEBAU",
+            "title": "Làm Cha",
+            "alias": "Lam-Cha-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/8/c/8c69e6c5508cb358d104793ba338a25d_1418184942.jpg",
+            "link": "/bai-hat/Lam-Cha-Hoai-Lam/ZW6EEBAU.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/8/c/8c69e6c5508cb358d104793ba338a25d_1418184942.jpg",
+            "duration": 259,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1388509200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "ZWZBA7AB",
+              "title": "Làm Cha",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/8/c/8c69e6c5508cb358d104793ba338a25d_1418184942.jpg",
+              "isoffical": true,
+              "link": "/album/Lam-Cha-Hoai-Lam/ZWZBA7AB.html",
+              "isIndie": false,
+              "releaseDate": "2014",
+              "sortDescription": "Sau thành công của ca khúc \"Có khi\", Hoài Lâm tiếp tục tung single \"Làm cha\". Đây là ca khúc của tác giả Dương Trường Giang, thể loại Pop Ballad. Bài hát có nội dung kể về tình cảm yêu thương của một người cha dành cho con. Những nỗi khó nhọc, vất vả cũng như những trăn trở để nuôi dạy con nên người đã tạo nên cảm hứng cho người nhạc sĩ viết nên ca khúc này. Yêu thích những bài hát ngợi ca về tình cảm gia đình, Hoài Lâm tiếp tục chinh phục bài hát mới với những cảm xúc chất chứa khó tả.",
+              "releasedAt": 1419958800000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1284376720,
+            "isIndie": false,
+            "mvlink": "/video-clip/Lam-Cha-Hoai-Lam/ZW6EEBAU.html",
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6IBBZ6E",
+            "title": "Trước Sau Trời Cũng Mưa",
+            "alias": "Truoc-Sau-Troi-Cung-Mua-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/c/c/2/0cc2a1215cae8720a51358d7c4bc4bcc.jpg",
+            "link": "/bai-hat/Truoc-Sau-Troi-Cung-Mua-Hoai-Lam/Z6IBBZ6E.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/c/c/2/0cc2a1215cae8720a51358d7c4bc4bcc.jpg",
+            "duration": 342,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1623988800,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "Z6IBB6WD",
+            "title": "Anh Cứ Ngỡ",
+            "alias": "Anh-Cu-Ngo-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/6/6/c/366c9bc424878a4e4ccbc913bc091b05.jpg",
+            "link": "/bai-hat/Anh-Cu-Ngo-Hoai-Lam/Z6IBB6WD.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/6/6/c/366c9bc424878a4e4ccbc913bc091b05.jpg",
+            "duration": 196,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1623988800,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZUZUD6WA",
+            "title": "Phải Nên Bắt Đầu Từ Đâu",
+            "alias": "Phai-Nen-Bat-Dau-Tu-Dau-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/9/3/d/e93da34adef7ef51f8d93dd43ee74368.jpg",
+            "link": "/bai-hat/Phai-Nen-Bat-Dau-Tu-Dau-Hoai-Lam/ZUZUD6WA.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/9/3/d/e93da34adef7ef51f8d93dd43ee74368.jpg",
+            "duration": 244,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1629910800,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "S8F9D8FB",
+              "title": "Phải Nên Bắt Đầu Từ Đâu (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/9/3/d/e93da34adef7ef51f8d93dd43ee74368.jpg",
+              "isoffical": true,
+              "link": "/album/Phai-Nen-Bat-Dau-Tu-Dau-Single-Hoai-Lam/S8F9D8FB.html",
+              "isIndie": false,
+              "releaseDate": "26/08/2021",
+              "sortDescription": "",
+              "releasedAt": 1629910800000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1460645081,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW6D6DFE",
+            "title": "Sa Mưa Giông",
+            "alias": "Sa-Mua-Giong-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/3/831704bd8964fbbe2357521b24b2aa4e_1467343772.jpg",
+            "link": "/bai-hat/Sa-Mua-Giong-Hoai-Lam/ZW6D6DFE.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/8/3/831704bd8964fbbe2357521b24b2aa4e_1467343772.jpg",
+            "duration": 284,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1388509200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z08B"
+            ],
+            "indicators": [],
+            "radioId": 1284173599,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW8I8006",
+            "title": "Nếu Như Là Định Mệnh (Masew Mix)",
+            "alias": "Neu-Nhu-La-Dinh-Menh-Masew-Mix-Hoai-Lam-Binz-Masew",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm, Binz, Masew",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              },
+              {
+                "id": "IWZ96FEI",
+                "name": "Binz",
+                "link": "/Binz",
+                "spotlight": false,
+                "alias": "Binz",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBECI6"
+              },
+              {
+                "id": "IWZFD77I",
+                "name": "Masew",
+                "link": "/Masew",
+                "spotlight": false,
+                "alias": "Masew",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZO697IEW"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/4/3/4360277dc6370630527e66ea6f2242e2_1504990874.jpg",
+            "link": "/bai-hat/Neu-Nhu-La-Dinh-Menh-Masew-Mix-Hoai-Lam-Binz-Masew/ZW8I8006.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/4/3/4360277dc6370630527e66ea6f2242e2_1504990874.jpg",
+            "duration": 325,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z0CW"
+            ],
+            "album": {
+              "encodeId": "ZO69ZZW9",
+              "title": "Nếu Như Là Định Mệnh (Masew Mix)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/4/3/4360277dc6370630527e66ea6f2242e2_1504990874.jpg",
+              "isoffical": true,
+              "link": "/album/Neu-Nhu-La-Dinh-Menh-Masew-Mix-Masew/ZO69ZZW9.html",
+              "isIndie": false,
+              "releaseDate": "2017",
+              "sortDescription": "",
+              "releasedAt": 1514653200000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088",
+                "IWZ9Z0CW"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZFD77I",
+                  "name": "Masew",
+                  "link": "/Masew",
+                  "spotlight": false,
+                  "alias": "Masew",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZO697IEW",
+                  "totalFollow": 402666
+                }
+              ],
+              "artistsNames": "Masew"
+            },
+            "indicators": [],
+            "radioId": 1285832134,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW7UCU8B",
+            "title": "Chính Mình",
+            "alias": "Chinh-Minh-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+            "link": "/bai-hat/Chinh-Minh-Hoai-Lam/ZW7UCU8B.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+            "duration": 271,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "album": {
+              "encodeId": "ZWZCZ0BC",
+              "title": "Chính Mình (Single)",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+              "isoffical": true,
+              "link": "/album/Chinh-Minh-Single-Hoai-Lam/ZWZCZ0BC.html",
+              "isIndie": false,
+              "releaseDate": "2016",
+              "sortDescription": "",
+              "releasedAt": 1483117200000,
+              "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ97D7C",
+                  "name": "Hoài Lâm",
+                  "link": "/Hoai-Lam",
+                  "spotlight": false,
+                  "alias": "Hoai-Lam",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                  "isOA": true,
+                  "isOABrand": false,
+                  "playlistId": "ZWZBBFI9",
+                  "totalFollow": 186347
+                }
+              ],
+              "artistsNames": "Hoài Lâm"
+            },
+            "indicators": [],
+            "radioId": 1285211205,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW6D6DFC",
+            "title": "Nhỏ Ơi",
+            "alias": "Nho-Oi-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/3/831704bd8964fbbe2357521b24b2aa4e_1467343772.jpg",
+            "link": "/bai-hat/Nho-Oi-Hoai-Lam/ZW6D6DFC.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/8/3/831704bd8964fbbe2357521b24b2aa4e_1467343772.jpg",
+            "duration": 140,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1388509200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "indicators": [],
+            "radioId": 1284173579,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZWAD0OOZ",
+            "title": "Lưu Bút Ngày Xanh",
+            "alias": "Luu-But-Ngay-Xanh-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/3/c/1/73c1fb4bec6f1daf98561ab9c35949b4.jpg",
+            "link": "/bai-hat/Luu-But-Ngay-Xanh-Hoai-Lam/ZWAD0OOZ.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/3/c/1/73c1fb4bec6f1daf98561ab9c35949b4.jpg",
+            "duration": 335,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1451581200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B"
+            ],
+            "album": {
+              "encodeId": "ZOUAF9ZO",
+              "title": "Nếu Biết Tôi Lấy Chồng",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/4/0/c/940ca4daaa7c0ecdec89ec1ae022f7c2.jpg",
+              "isoffical": true,
+              "link": "/album/Neu-Biet-Toi-Lay-Chong-Phuong-Diem-Hanh-Dang-Truong-Phat/ZOUAF9ZO.html",
+              "isIndie": false,
+              "releaseDate": "01/01/2002",
+              "sortDescription": "",
+              "releasedAt": 1009818000000,
+              "genreIds": [
+                "IWZ9Z08I"
+              ],
+              "PR": false,
+              "artists": [
+                {
+                  "id": "IWZ9DUBF",
+                  "name": "Phương Diễm Hạnh",
+                  "link": "/nghe-si/Phuong-Diem-Hanh",
+                  "spotlight": false,
+                  "alias": "Phuong-Diem-Hanh",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/0/704b27084030f0e97ce3ce3e5953e9e5_1511346207.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/0/704b27084030f0e97ce3ce3e5953e9e5_1511346207.jpg",
+                  "isOA": false,
+                  "isOABrand": false,
+                  "playlistId": "6UW9A7ZD",
+                  "totalFollow": 3669
+                },
+                {
+                  "id": "IWZ97WFW",
+                  "name": "Đặng Trường Phát",
+                  "link": "/nghe-si/Dang-Truong-Phat",
+                  "spotlight": false,
+                  "alias": "Dang-Truong-Phat",
+                  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/7713abd2f52e037362a5fc8d8056bfd4_1508219058.jpg",
+                  "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/7/7713abd2f52e037362a5fc8d8056bfd4_1508219058.jpg",
+                  "isOA": false,
+                  "isOABrand": false,
+                  "playlistId": "6UW99BF7",
+                  "totalFollow": 180
+                }
+              ],
+              "artistsNames": "Phương Diễm Hạnh, Đặng Trường Phát"
+            },
+            "indicators": [],
+            "radioId": 1286749950,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          },
+          {
+            "encodeId": "ZW78WI7A",
+            "title": "Cho Vừa Lòng Em",
+            "alias": "Cho-Vua-Long-Em-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/0/8/d/908d9f22582d7b54678aa5d35792df34.jpg",
+            "link": "/bai-hat/Cho-Vua-Long-Em-Hoai-Lam/ZW78WI7A.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/0/8/d/908d9f22582d7b54678aa5d35792df34.jpg",
+            "duration": 316,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1451581200,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B"
+            ],
+            "album": {
+              "encodeId": "ZOUO8ACW",
+              "title": "Cho Vừa Lòng Em",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/0/8/d/908d9f22582d7b54678aa5d35792df34.jpg",
+              "isoffical": true,
+              "link": "/album/Cho-Vua-Long-Em-Various-Artists/ZOUO8ACW.html",
+              "isIndie": false,
+              "releaseDate": "01/01/2016",
+              "sortDescription": "",
+              "releasedAt": 1451581200000,
+              "genreIds": [
+                "IWZ9Z08I"
+              ],
+              "PR": false
+            },
+            "indicators": [],
+            "radioId": 1285234671,
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+          }
+        ],
+        "topAlbum": {
+          "encodeId": "6B88DIF7",
+          "title": "Con Chưa Kịp Nói (OST Vong Nhi) (Single)",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/b/c/4/1bc46d72258f091838327ffea504a3ff.jpg",
+          "isoffical": true,
+          "link": "/album/Con-Chua-Kip-Noi-OST-Vong-Nhi-Single-Hoai-Lam/6B88DIF7.html",
+          "isIndie": false,
+          "releaseDate": "02/02/2023",
+          "sortDescription": "",
+          "releasedAt": 1675306800000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z0BA",
+            "IWZ97FCD"
+          ],
+          "PR": false,
+          "artists": [
+            {
+              "id": "IWZ97D7C",
+              "name": "Hoài Lâm",
+              "link": "/Hoai-Lam",
+              "spotlight": false,
+              "alias": "Hoai-Lam",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBBFI9",
+              "totalFollow": 186347
+            }
+          ],
+          "artistsNames": "Hoài Lâm",
+          "playItemMode": 0,
+          "subType": 1,
+          "uid": 730,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/1/b/c/4/1bc46d72258f091838327ffea504a3ff.jpg",
+          "isShuffle": false,
+          "isPrivate": false,
+          "userName": "Zing MP3",
+          "isAlbum": true,
+          "textType": "Single",
+          "isSingle": true,
+          "distributor": "",
+          "sectionId": "aFeatured"
+        },
+        "options": {
+          "artistId": "IWZ97D7C"
+        }
+      },
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Single & EP",
+        "link": "/Hoai-Lam/single",
+        "sectionId": "aSingle",
+        "items": [
+          {
+            "encodeId": "6B88DIF7",
+            "title": "Con Chưa Kịp Nói (OST Vong Nhi) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/b/c/4/1bc46d72258f091838327ffea504a3ff.jpg",
+            "isoffical": true,
+            "link": "/album/Con-Chua-Kip-Noi-OST-Vong-Nhi-Single-Hoai-Lam/6B88DIF7.html",
+            "isIndie": false,
+            "releaseDate": "02/02/2023",
+            "sortDescription": "",
+            "releasedAt": 1675306800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z0BA",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 730,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/1/b/c/4/1bc46d72258f091838327ffea504a3ff.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2/2023"
+          },
+          {
+            "encodeId": "6B8WDDDO",
+            "title": "Bae You Make Me High (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/9/d/4/b9d4d29d59d5e8b57b38744533a2fe34.jpg",
+            "isoffical": true,
+            "link": "/album/Bae-You-Make-Me-High-Single-Icy-Nirvana-Hoai-Lam-BILLY100/6B8WDDDO.html",
+            "isIndie": false,
+            "releaseDate": "13/01/2023",
+            "sortDescription": "",
+            "releasedAt": 1673542800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z089"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW78EE8C",
+                "name": "Icy Nirvana",
+                "link": "/nghe-si/Icy-Nirvana.IW78EE8C",
+                "spotlight": false,
+                "alias": "Icy-Nirvana.IW78EE8C",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 5
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              },
+              {
+                "id": "IW7886IF",
+                "name": "BILLY100",
+                "link": "/nghe-si/BILLY100-IW7886IF",
+                "spotlight": false,
+                "alias": "BILLY100-IW7886IF",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/5/2/7/f527d8545740f498ef21bada10f8251f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/5/2/7/f527d8545740f498ef21bada10f8251f.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7WAD8C",
+                "totalFollow": 10
+              }
+            ],
+            "artistsNames": "Icy Nirvana, Hoài Lâm, BILLY100",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 342,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/b/9/d/4/b9d4d29d59d5e8b57b38744533a2fe34.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "1/2023"
+          },
+          {
+            "encodeId": "6B7AWEF9",
+            "title": "Vòng Tay Ấm (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/8/1/3/b81391b43591d4666544ad9b4484f95b.jpg",
+            "isoffical": true,
+            "link": "/album/Vong-Tay-Am-Single-Hoai-Lam-Daddy-Lee-Le-Huu-Minh/6B7AWEF9.html",
+            "isIndie": false,
+            "releaseDate": "24/12/2022",
+            "sortDescription": "",
+            "releasedAt": 1671883200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              },
+              {
+                "id": "IWZAZAI6",
+                "name": "Daddy Lee",
+                "link": "/nghe-si/Daddy-Lee",
+                "spotlight": false,
+                "alias": "Daddy-Lee",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/c/0/1/4c01b56cdae48ae81aa5310685883ecf.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/c/0/1/4c01b56cdae48ae81aa5310685883ecf.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W8679",
+                "totalFollow": 113
+              },
+              {
+                "id": "IWZA0UCO",
+                "name": "Lê Hữu Minh",
+                "link": "/nghe-si/Le-Huu-Minh",
+                "spotlight": false,
+                "alias": "Le-Huu-Minh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/8/18c960972860d539131530d19942c679_1444991142.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/8/18c960972860d539131530d19942c679_1444991142.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UW9A9D0",
+                "totalFollow": 352
+              }
+            ],
+            "artistsNames": "Hoài Lâm, Daddy Lee, Lê Hữu Minh",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 456,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/b/8/1/3/b81391b43591d4666544ad9b4484f95b.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2022"
+          },
+          {
+            "encodeId": "6B6O7WFF",
+            "title": "Sông Quê (Lofi Version) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/8/c/6/98c637a683f812b62a6a6d197944624f.jpg",
+            "isoffical": true,
+            "link": "/album/Song-Que-Lofi-Version-Single-Hoai-Lam/6B6O7WFF.html",
+            "isIndie": false,
+            "releaseDate": "30/09/2022",
+            "sortDescription": "",
+            "releasedAt": 1664521800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 456,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/9/8/c/6/98c637a683f812b62a6a6d197944624f.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2022"
+          },
+          {
+            "encodeId": "6B6I0DIO",
+            "title": "Trách Hai Từ Thương Em (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/7/e/f/a7ef74babeab78c0f9618a1835a1558a.jpg",
+            "isoffical": true,
+            "link": "/album/Trach-Hai-Tu-Thuong-Em-Single-Hoai-Lam-Duy-Drake/6B6I0DIO.html",
+            "isIndie": false,
+            "releaseDate": "27/09/2022",
+            "sortDescription": "",
+            "releasedAt": 1664280000000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              },
+              {
+                "id": "IW7DA8BF",
+                "name": "Duy Drake",
+                "link": "/nghe-si/Duy-Drake",
+                "spotlight": false,
+                "alias": "Duy-Drake",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/5/e/b/f5eb67a2c1f4433ce5ec7197abded26a.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/5/e/b/f5eb67a2c1f4433ce5ec7197abded26a.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 37
+              }
+            ],
+            "artistsNames": "Hoài Lâm, Duy Drake",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 730,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/a/7/e/f/a7ef74babeab78c0f9618a1835a1558a.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2022"
+          },
+          {
+            "encodeId": "S8F9D8FB",
+            "title": "Phải Nên Bắt Đầu Từ Đâu (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/9/3/d/e93da34adef7ef51f8d93dd43ee74368.jpg",
+            "isoffical": true,
+            "link": "/album/Phai-Nen-Bat-Dau-Tu-Dau-Single-Hoai-Lam/S8F9D8FB.html",
+            "isIndie": false,
+            "releaseDate": "26/08/2021",
+            "sortDescription": "",
+            "releasedAt": 1629910800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 456,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/e/9/3/d/e93da34adef7ef51f8d93dd43ee74368.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2021"
+          },
+          {
+            "encodeId": "68ACZAZC",
+            "title": "Nỗi Nhớ Mang Tên Mình (Acoustic Version) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/f/7/7/4f77a4c31e156af1a3984173e2d67c58.jpg",
+            "isoffical": true,
+            "link": "/album/Noi-Nho-Mang-Ten-Minh-Acoustic-Version-Single-Hoai-Lam/68ACZAZC.html",
+            "isIndie": false,
+            "releaseDate": "10/07/2021",
+            "sortDescription": "",
+            "releasedAt": 1625850000000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 270,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/4/f/7/7/4f77a4c31e156af1a3984173e2d67c58.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2021"
+          },
+          {
+            "encodeId": "67676FWI",
+            "title": "Xin Lỗi Vì Đã Yêu Nhau (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/0/f/8/40f8a00cbbfe54a187c2bc90ff10d4c7.jpg",
+            "isoffical": true,
+            "link": "/album/Xin-Loi-Vi-Da-Yeu-Nhau-Single-Hoai-Lam/67676FWI.html",
+            "isIndie": false,
+            "releaseDate": "16/07/2018",
+            "sortDescription": "",
+            "releasedAt": 1531674000000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 456,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/4/0/f/8/40f8a00cbbfe54a187c2bc90ff10d4c7.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2018"
+          },
+          {
+            "encodeId": "ZOACO7U6",
+            "title": "Nỗi Nhớ Mang Tên Mình (OST Cạm Bẫy - Hơi Thở Của Quỷ) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/2/2/2219a6b83e4c197a3b9a99a225419cb9_1515154879.jpg",
+            "isoffical": true,
+            "link": "/album/Noi-Nho-Mang-Ten-Minh-OST-Cam-Bay-Hoi-Tho-Cua-Quy-Single-Hoai-Lam/ZOACO7U6.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 290,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/covers/2/2/2219a6b83e4c197a3b9a99a225419cb9_1515154879.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2018"
+          },
+          {
+            "encodeId": "ZOBOA7B8",
+            "title": "Xuân (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_png/covers/f/f/ffef5a4c352fca617bb6016b97d2f249_1518409266.png",
+            "isoffical": true,
+            "link": "/album/Xuan-Single-Trung-Quan-Idol-Hoai-Lam-Ali-Hoang-Duong-Gin-Tuan-Kiet/ZOBOA7B8.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96C8Z",
+                "name": "Trung Quân Idol",
+                "link": "/Trung-Quan-Idol",
+                "spotlight": false,
+                "alias": "Trung-Quan-Idol",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/1/9/d/b19d258b0d7e0a995c8d79ba98d2fbc2.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/1/9/d/b19d258b0d7e0a995c8d79ba98d2fbc2.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBIBBI",
+                "totalFollow": 157937
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              },
+              {
+                "id": "IWZFDBAD",
+                "name": "Ali Hoàng Dương",
+                "link": "/Ali-Hoang-Duong",
+                "spotlight": false,
+                "alias": "Ali-Hoang-Duong",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/4/3/6c43c278ff28e57f9c03200295b9f451.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/c/4/3/6c43c278ff28e57f9c03200295b9f451.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZODEAZ87",
+                "totalFollow": 32568
+              },
+              {
+                "id": "IWZAEBEZ",
+                "name": "Gin Tuấn Kiệt",
+                "link": "/Gin-Tuan-Kiet",
+                "spotlight": false,
+                "alias": "Gin-Tuan-Kiet",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/4/6/d/446d8ba03f5e49f750faee7d559bcd6a.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/4/6/d/446d8ba03f5e49f750faee7d559bcd6a.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZODABB7D",
+                "totalFollow": 97807
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 299,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_png/covers/f/f/ffef5a4c352fca617bb6016b97d2f249_1518409266.png",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2018"
+          },
+          {
+            "encodeId": "ZO6IIAFB",
+            "title": "Nếu Như Là Định Mệnh",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_png/covers/e/f/ef31758de00f5b943e27993e02cc564b_1499659007.png",
+            "isoffical": true,
+            "link": "/album/Neu-Nhu-La-Dinh-Menh-Hoai-Lam-Binz/ZO6IIAFB.html",
+            "isIndie": false,
+            "releaseDate": "2017",
+            "sortDescription": "",
+            "releasedAt": 1514653200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              },
+              {
+                "id": "IWZ96FEI",
+                "name": "Binz",
+                "link": "/Binz",
+                "spotlight": false,
+                "alias": "Binz",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBECI6",
+                "totalFollow": 382871
+              }
+            ],
+            "artistsNames": "Hoài Lâm, Binz",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 272,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_png/covers/e/f/ef31758de00f5b943e27993e02cc564b_1499659007.png",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2017"
+          },
+          {
+            "encodeId": "ZWZCZ0BC",
+            "title": "Chính Mình (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+            "isoffical": true,
+            "link": "/album/Chinh-Minh-Single-Hoai-Lam/ZWZCZ0BC.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2016"
+          },
+          {
+            "encodeId": "ZOUWZCFB",
+            "title": "Suy Nghĩ Riêng Anh (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/4/4/44a5b8b482140f0729c5c52f260f8d59_1473478152.jpg",
+            "isoffical": true,
+            "link": "/album/Suy-Nghi-Rieng-Anh-Single-Hoai-Lam/ZOUWZCFB.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 131,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/covers/4/4/44a5b8b482140f0729c5c52f260f8d59_1473478152.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2016"
+          },
+          {
+            "encodeId": "ZOUW9D80",
+            "title": "Vì Em Quyến Rũ Mỗi Ngày",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_png/covers/2/5/25a9bc7f070277cac3bfca54d5d26118_1474443491.png",
+            "isoffical": true,
+            "link": "/album/Vi-Em-Quyen-Ru-Moi-Ngay-Hoai-Lam/ZOUW9D80.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 112,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_png/covers/2/5/25a9bc7f070277cac3bfca54d5d26118_1474443491.png",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2016"
+          },
+          {
+            "encodeId": "ZWZBCW7D",
+            "title": "Quay Về",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_png/covers/0/1/01fedec832d82244ec0a4561cc505ae7_1423561186.png",
+            "isoffical": true,
+            "link": "/album/Quay-Ve-Hoai-Lam/ZWZBCW7D.html",
+            "isIndie": false,
+            "releaseDate": "2015",
+            "sortDescription": "Mong muốn dành tặng cho khán giả một món quà Xuân đầy ý nghĩa, Hoài Lâm lại tiếp tục dốc hết sức để thực hiện Album Quay về một cách hoàn chỉnh nhất. Những ca khúc này sẽ chính thức xuất hiện trên trang nghe nhạc trực tuyến Zing MP3 từ ngày hôm nay.",
+            "releasedAt": 1451494800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_png/covers/0/1/01fedec832d82244ec0a4561cc505ae7_1423561186.png",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2015"
+          },
+          {
+            "encodeId": "ZWZBA7AB",
+            "title": "Làm Cha",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/8/c/8c69e6c5508cb358d104793ba338a25d_1418184942.jpg",
+            "isoffical": true,
+            "link": "/album/Lam-Cha-Hoai-Lam/ZWZBA7AB.html",
+            "isIndie": false,
+            "releaseDate": "2014",
+            "sortDescription": "Sau thành công của ca khúc \"Có khi\", Hoài Lâm tiếp tục tung single \"Làm cha\". Đây là ca khúc của tác giả Dương Trường Giang, thể loại Pop Ballad. Bài hát có nội dung kể về tình cảm yêu thương của một người cha dành cho con. Những nỗi khó nhọc, vất vả cũng như những trăn trở để nuôi dạy con nên người đã tạo nên cảm hứng cho người nhạc sĩ viết nên ca khúc này. Yêu thích những bài hát ngợi ca về tình cảm gia đình, Hoài Lâm tiếp tục chinh phục bài hát mới với những cảm xúc chất chứa khó tả.",
+            "releasedAt": 1419958800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/covers/8/c/8c69e6c5508cb358d104793ba338a25d_1418184942.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Single",
+            "isSingle": true,
+            "releaseDateText": "2014"
+          }
+        ],
+        "itemType": "release-date"
+      },
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Album",
+        "link": "",
+        "sectionId": "aAlbum",
+        "items": [
+          {
+            "encodeId": "ZWZBEIE0",
+            "title": "Cô Bé Ngày Xưa",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/4/8/4840a19791fc500335432fbf5f332a06_1431760228.jpg",
+            "isoffical": true,
+            "link": "/album/Co-Be-Ngay-Xua-Hoai-Lam/ZWZBEIE0.html",
+            "isIndie": false,
+            "releaseDate": "2015",
+            "sortDescription": "Album mới nhất của ca sỹ Hoài Lâm ra mắt ngày 16/05/2015, phát hành online trên Zing MP3",
+            "releasedAt": 1451494800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/covers/4/8/4840a19791fc500335432fbf5f332a06_1431760228.jpg",
+            "isShuffle": false,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Album",
+            "isSingle": false,
+            "releaseDateText": "2015"
+          }
+        ],
+        "itemType": "release-date"
+      },
+      {
+        "sectionType": "video",
+        "viewType": "slider",
+        "title": "MV",
+        "link": "/Hoai-Lam/video",
+        "sectionId": "aMV",
+        "items": [
+          {
+            "encodeId": "ZO9DO9U0",
+            "title": "Xin Lỗi Vì Đã Yêu Nhau",
+            "alias": "Xin-Loi-Vi-Da-Yeu-Nhau-Hoai-Lam",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/b/3/1/9/b3193a6be0745a16b10dd58e6378626e.jpg",
+            "link": "/video-clip/Xin-Loi-Vi-Da-Yeu-Nhau-Hoai-Lam/ZO9DO9U0.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/b/3/1/9/b3193a6be0745a16b10dd58e6378626e.jpg",
+            "duration": 295,
+            "streamingStatus": 1,
+            "artist": {
+              "id": "IWZ97D7C",
+              "name": "Hoài Lâm",
+              "link": "/nghe-si/Hoai-Lam",
+              "spotlight": false,
+              "alias": "Hoai-Lam",
+              "playlistId": "ZWZBBFI9",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/2/72e90a6b088c99a8f093e2724d6217d1_1511498031.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg"
+            }
+          },
+          {
+            "encodeId": "ZW6FEFEZ",
+            "title": "Ngày Nào Còn Bé",
+            "alias": "Ngay-Nao-Con-Be-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/7/2/7278b62951045efd645b40000d5ed800_1424059561.jpg",
+            "link": "/video-clip/Ngay-Nao-Con-Be-Hoai-Lam/ZW6FEFEZ.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/7/2/7278b62951045efd645b40000d5ed800_1424059561.jpg",
+            "duration": 304,
+            "streamingStatus": 1,
+            "artist": {
+              "id": "IWZ97D7C",
+              "name": "Hoài Lâm",
+              "link": "/nghe-si/Hoai-Lam",
+              "spotlight": false,
+              "alias": "Hoai-Lam",
+              "playlistId": "ZWZBBFI9",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/2/72e90a6b088c99a8f093e2724d6217d1_1511498031.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg"
+            }
+          },
+          {
+            "encodeId": "ZW6EEBAU",
+            "title": "Làm Cha",
+            "alias": "Lam-Cha-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/d/d/dd7af0111252e68bb4306cf199a3b79b_1422444879.jpg",
+            "link": "/video-clip/Lam-Cha-Hoai-Lam/ZW6EEBAU.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/d/d/dd7af0111252e68bb4306cf199a3b79b_1422444879.jpg",
+            "duration": 1013,
+            "streamingStatus": 1,
+            "artist": {
+              "id": "IWZ97D7C",
+              "name": "Hoài Lâm",
+              "link": "/nghe-si/Hoai-Lam",
+              "spotlight": false,
+              "alias": "Hoai-Lam",
+              "playlistId": "ZWZBBFI9",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/2/72e90a6b088c99a8f093e2724d6217d1_1511498031.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg"
+            }
+          },
+          {
+            "encodeId": "ZW6D0IBA",
+            "title": "Như Những Phút Ban Đầu",
+            "alias": "Nhu-Nhung-Phut-Ban-Dau-Hoai-Lam",
+            "isOffical": true,
+            "username": "mp3",
+            "artistsNames": "Hoài Lâm",
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9"
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/8/7/87348e554bdd258dd7297a128c0c508e_1411213421.jpg",
+            "link": "/video-clip/Nhu-Nhung-Phut-Ban-Dau-Hoai-Lam/ZW6D0IBA.html",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/8/7/87348e554bdd258dd7297a128c0c508e_1411213421.jpg",
+            "duration": 359,
+            "streamingStatus": 1,
+            "artist": {
+              "id": "IWZ97D7C",
+              "name": "Hoài Lâm",
+              "link": "/nghe-si/Hoai-Lam",
+              "spotlight": false,
+              "alias": "Hoai-Lam",
+              "playlistId": "ZWZBBFI9",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/2/72e90a6b088c99a8f093e2724d6217d1_1511498031.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Tuyển tập",
+        "link": "",
+        "sectionId": "aPlaylist",
+        "items": [
+          {
+            "encodeId": "ZWZBBFI9",
+            "title": "Những Bài Hát Hay Nhất Của Hoài Lâm",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/images/f/b/2/5/fb259b9283c674e3c2aa053e7d57613d.jpg",
+            "isoffical": true,
+            "link": "/album/Nhung-Bai-Hat-Hay-Nhat-Cua-Hoai-Lam-Hoai-Lam/ZWZBBFI9.html",
+            "isIndie": false,
+            "releaseDate": "",
+            "sortDescription": "Tuyển Tập Các Bài Hát Hay Nhất Của Hoài Lâm",
+            "releasedAt": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z08B",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              }
+            ],
+            "artistsNames": "Hoài Lâm",
+            "playItemMode": 0,
+            "subType": 20,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/f/b/2/5/fb259b9283c674e3c2aa053e7d57613d.jpg",
+            "isShuffle": true,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          }
+        ]
+      },
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Xuất hiện trong",
+        "link": "",
+        "sectionId": "aPlaylist",
+        "items": [
+          {
+            "encodeId": "67WWC0AI",
+            "title": "Ballad Việt Ngày Nay",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/2/8/a/428a3cbdaf4388a0818745476662cfb9.jpg",
+            "isoffical": true,
+            "link": "/album/Ballad-Viet-Ngay-Nay-Ha-Nhi-Mai-Tien-Dung-Myra-Tran-Luong-Bich-Huu/67WWC0AI.html",
+            "isIndie": false,
+            "releaseDate": "",
+            "sortDescription": "Ballad Việt thịnh hành hiện nay mà bạn không nên bỏ lỡ",
+            "releasedAt": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA6806",
+                "name": "Hà Nhi",
+                "link": "/Ha-Nhi",
+                "spotlight": false,
+                "alias": "Ha-Nhi",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/d/b/c5dbc8fad12e47094496041efa689f21.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/5/d/b/c5dbc8fad12e47094496041efa689f21.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "6UW9B008",
+                "totalFollow": 33894
+              },
+              {
+                "id": "IWZ9707O",
+                "name": "Mai Tiến Dũng",
+                "link": "/Mai-Tien-Dung",
+                "spotlight": false,
+                "alias": "Mai-Tien-Dung",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/7/2/1/c72124d00364087a050b5b69dcd0ee56.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/7/2/1/c72124d00364087a050b5b69dcd0ee56.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9FZ8F",
+                "totalFollow": 13176
+              },
+              {
+                "id": "IW7FWZUC",
+                "name": "Myra Trần",
+                "link": "/nghe-si/Myra-Tran",
+                "spotlight": false,
+                "alias": "Myra-Tran",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/7/d/9/07d979fea764f5beb8ac9a2b6b34b9dc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/7/d/9/07d979fea764f5beb8ac9a2b6b34b9dc.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7OEOW7",
+                "totalFollow": 2103
+              },
+              {
+                "id": "IWZ9ZI7W",
+                "name": "Lương Bích Hữu",
+                "link": "/Luong-Bich-Huu",
+                "spotlight": false,
+                "alias": "Luong-Bich-Huu",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/a/3/a/5a3acdf33829bf766988efe183f2b529.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/a/3/a/5a3acdf33829bf766988efe183f2b529.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZADOWA",
+                "totalFollow": 107402
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/4/2/8/a/428a3cbdaf4388a0818745476662cfb9.jpg",
+            "isShuffle": true,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6IOWC96U",
+            "title": "Nỗi Nhớ Không Màu",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/7/4/1/c7418198319d50613219b10cb8025dea.jpg",
+            "isoffical": true,
+            "link": "/album/Noi-Nho-Khong-Mau-SOOBIN-Isaac-Hoai-Lam-JayKii/6IOWC96U.html",
+            "isIndie": false,
+            "releaseDate": "",
+            "sortDescription": "Cuộc đời này có muôn ngàn nỗi nhớ. Nhưng nỗi nhớ lớn nhất là khi chúng ta không còn ở bên nhau...",
+            "releasedAt": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ997CU",
+                "name": "SOOBIN",
+                "link": "/nghe-si/SOOBIN",
+                "spotlight": true,
+                "alias": "SOOBIN",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/d/8/6/3d86de0d52fe728dc36351463c4bb543.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/d/8/6/3d86de0d52fe728dc36351463c4bb543.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZWZAEAD9",
+                "totalFollow": 503275
+              },
+              {
+                "id": "IWZ99IE0",
+                "name": "Isaac",
+                "link": "/Pham-Luu-Tuan-Tai",
+                "spotlight": false,
+                "alias": "Pham-Luu-Tuan-Tai",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/b/0/c/bb0cdf7161b9acee09b43cf2f188268c.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/b/0/c/bb0cdf7161b9acee09b43cf2f188268c.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCUADD",
+                "totalFollow": 64455
+              },
+              {
+                "id": "IWZ97D7C",
+                "name": "Hoài Lâm",
+                "link": "/Hoai-Lam",
+                "spotlight": false,
+                "alias": "Hoai-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/9/5/7495edf43991a3d162c2a9efd4341172.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBBFI9",
+                "totalFollow": 186347
+              },
+              {
+                "id": "IWZFE0CD",
+                "name": "JayKii",
+                "link": "/JayKii",
+                "spotlight": false,
+                "alias": "JayKii",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/0/7/9/7079e2378be283d04db6cd9825b2220b.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/0/7/9/7079e2378be283d04db6cd9825b2220b.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOCDOEUW",
+                "totalFollow": 74387
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/c/7/4/1/c7418198319d50613219b10cb8025dea.jpg",
+            "isShuffle": true,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6IOE89CF",
+            "title": "Buồn Làm Chi Em Ơi",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/0/3/1/603142ae13607c59809e3762df8bf185.jpg",
+            "isoffical": true,
+            "link": "/album/Buon-Lam-Chi-Em-Oi-Khai-Dang-Phan-Duy-Anh-Thanh-Hung-Vuong-Anh-Tu/6IOE89CF.html",
+            "isIndie": false,
+            "releaseDate": "",
+            "sortDescription": "Buồn làm chi em ơi lá xanh rồi cũng phai màu, cứ ngỡ duyên mình bền lâu ai ngờ lại xa cách nhau!",
+            "releasedAt": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA76EE",
+                "name": "Khải Đăng",
+                "link": "/Khai-Dang",
+                "spotlight": false,
+                "alias": "Khai-Dang",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/0/a/9/10a9a536eb062f6adc1f717740cd4155.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/0/a/9/10a9a536eb062f6adc1f717740cd4155.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOEWEZCO",
+                "totalFollow": 52187
+              },
+              {
+                "id": "IWZ99IO9",
+                "name": "Phan Duy Anh",
+                "link": "/Phan-Duy-Anh",
+                "spotlight": false,
+                "alias": "Phan-Duy-Anh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/7/7/a/b77ac5aec77b7df5c628293f9e1d6232.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/7/7/a/b77ac5aec77b7df5c628293f9e1d6232.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZODEFA66",
+                "totalFollow": 97567
+              },
+              {
+                "id": "IWZ9A7ZD",
+                "name": "Thanh Hưng",
+                "link": "/Thanh-Hung",
+                "spotlight": false,
+                "alias": "Thanh-Hung",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/a/d/baad2edb86c7926d2b6d1b0a778aa809.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/a/d/baad2edb86c7926d2b6d1b0a778aa809.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZUZF7E88",
+                "totalFollow": 184108
+              },
+              {
+                "id": "IWZ9FE6A",
+                "name": "Vương Anh Tú",
+                "link": "/Vuong-Anh-Tu",
+                "spotlight": false,
+                "alias": "Vuong-Anh-Tu",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/c/f/bfcf5a819c1bdf76a5a7cb9a780ca721.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/c/f/bfcf5a819c1bdf76a5a7cb9a780ca721.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZAOI8A",
+                "totalFollow": 89707
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/6/0/3/1/603142ae13607c59809e3762df8bf185.jpg",
+            "isShuffle": true,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZECE0ZD6",
+            "title": "V-Pop: 100 Hits Thập Niên",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/a/9/e/0a9e43f3bc9346957f2750d2f1c0fb32.jpg",
+            "isoffical": true,
+            "link": "/album/V-Pop-100-Hits-Thap-Nien-Noo-Phuoc-Thinh-Huong-Tram-ERIK-Dong-Nhi/ZECE0ZD6.html",
+            "isIndie": false,
+            "releaseDate": "2020",
+            "sortDescription": "Thập niên 2010s và 100 ca khúc V-Pop nổi bật nhất",
+            "releasedAt": 0,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUU6",
+                "name": "Noo Phước Thịnh",
+                "link": "/Noo-Phuoc-Thinh",
+                "spotlight": false,
+                "alias": "Noo-Phuoc-Thinh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/6/1/9e614e0267968c01457e2b692e2e7272.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/6/1/9e614e0267968c01457e2b692e2e7272.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZ9CFEI",
+                "totalFollow": 333794
+              },
+              {
+                "id": "IWZ997CC",
+                "name": "Hương Tràm",
+                "link": "/Huong-Tram",
+                "spotlight": true,
+                "alias": "Huong-Tram",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/7/6/7/b767f2c6580ba31be55a2810e97d59ce.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/7/6/7/b767f2c6580ba31be55a2810e97d59ce.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZADE0U",
+                "totalFollow": 286102
+              },
+              {
+                "id": "IWZA6CIZ",
+                "name": "ERIK",
+                "link": "/ERIK",
+                "spotlight": true,
+                "alias": "ERIK",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/e/c/e/6ece037c3eb17ac0808a36045d03bff4.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/e/c/e/6ece037c3eb17ac0808a36045d03bff4.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9FWW7",
+                "totalFollow": 488771
+              },
+              {
+                "id": "IWZ9ZWOC",
+                "name": "Đông Nhi",
+                "link": "/Dong-Nhi",
+                "spotlight": false,
+                "alias": "Dong-Nhi",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/a/1/2ea1ee0e687c59f0ead71042c7f4b245.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/e/a/1/2ea1ee0e687c59f0ead71042c7f4b245.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZ9AEB9",
+                "totalFollow": 120641
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/0/a/9/e/0a9e43f3bc9346957f2750d2f1c0fb32.jpg",
+            "isShuffle": true,
+            "isPrivate": false,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          }
+        ]
+      },
+      {
+        "sectionType": "artist",
+        "viewType": "slider",
+        "title": "Bạn Có Thể Thích",
+        "link": "",
+        "sectionId": "aReArtist",
+        "items": [
+          {
+            "id": "IWZ9ZOC0",
+            "name": "Tuấn Hưng",
+            "link": "/Tuan-Hung",
+            "spotlight": false,
+            "alias": "Tuan-Hung",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/e/0/6/3e06ae7740102e7662db8cbca392d9a6.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/e/0/6/3e06ae7740102e7662db8cbca392d9a6.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZ9DAE0",
+            "totalFollow": 240949
+          },
+          {
+            "id": "IWZ9Z0EU",
+            "name": "Lệ Quyên",
+            "link": "/Le-Quyen",
+            "spotlight": false,
+            "alias": "Le-Quyen",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/8/8/b/288b791b31eecc77f29778fa3d599771.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/8/8/b/288b791b31eecc77f29778fa3d599771.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZ9D090",
+            "totalFollow": 475953
+          },
+          {
+            "id": "IWZ9ZOBC",
+            "name": "Quang Lê",
+            "link": "/Quang-Le",
+            "spotlight": false,
+            "alias": "Quang-Le",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/f/3/c/9f3cb9a7e75438f0cb6c8064f54a0668.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/f/3/c/9f3cb9a7e75438f0cb6c8064f54a0668.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZ9CD67",
+            "totalFollow": 353228
+          },
+          {
+            "id": "IWZ9707O",
+            "name": "Mai Tiến Dũng",
+            "link": "/Mai-Tien-Dung",
+            "spotlight": false,
+            "alias": "Mai-Tien-Dung",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/7/2/1/c72124d00364087a050b5b69dcd0ee56.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/7/2/1/c72124d00364087a050b5b69dcd0ee56.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZOZ9FZ8F",
+            "totalFollow": 13176
+          },
+          {
+            "id": "IWZ9ZIBW",
+            "name": "Bằng Kiều",
+            "link": "/Bang-Kieu",
+            "spotlight": false,
+            "alias": "Bang-Kieu",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/4/84d49670aa357051bd72b18ce0feedd8_1446460401.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/4/84d49670aa357051bd72b18ce0feedd8_1446460401.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZ9DAEI",
+            "totalFollow": 126778
+          },
+          {
+            "id": "IWZ96UZ0",
+            "name": "Dương Triệu Vũ",
+            "link": "/duongtrieuvu",
+            "spotlight": false,
+            "alias": "duongtrieuvu",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/2/82c58b2391c17f845ea899da57af08a0_1510545554.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/2/82c58b2391c17f845ea899da57af08a0_1510545554.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZ9D07D",
+            "totalFollow": 14065
+          },
+          {
+            "id": "IWZ9ZC96",
+            "name": "The Men",
+            "link": "/The-Men",
+            "spotlight": false,
+            "alias": "The-Men",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/c/dc7ebf195a05e61285774a63a05c261b_1427338923.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/c/dc7ebf195a05e61285774a63a05c261b_1427338923.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZ9A8BE",
+            "totalFollow": 59427
+          },
+          {
+            "id": "IWZ96C8Z",
+            "name": "Trung Quân Idol",
+            "link": "/Trung-Quan-Idol",
+            "spotlight": false,
+            "alias": "Trung-Quan-Idol",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/1/9/d/b19d258b0d7e0a995c8d79ba98d2fbc2.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/1/9/d/b19d258b0d7e0a995c8d79ba98d2fbc2.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZBIBBI",
+            "totalFollow": 157937
+          },
+          {
+            "id": "IWZA6DED",
+            "name": "Quang Đăng Trần",
+            "link": "/Tran-Dang-Quang",
+            "spotlight": false,
+            "alias": "Tran-Dang-Quang",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/e/9/1/ae91c5839f076e32682019265ef5f617.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/e/9/1/ae91c5839f076e32682019265ef5f617.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "6UW9B0CW",
+            "totalFollow": 31735
+          },
+          {
+            "id": "IWZAZBOC",
+            "name": "JUUN D",
+            "link": "/JUUN-D",
+            "spotlight": false,
+            "alias": "JUUN-D",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/f/4/46f4e3d4a32e3d5d1915cb0139bd6c65.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/6/f/4/46f4e3d4a32e3d5d1915cb0139bd6c65.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZOAD0FUE",
+            "totalFollow": 32207
+          }
+        ]
+      }
+    ],
+    "sectionId": "aSong",
+    "isOABrand": false,
+    "tabs": [
+      1,
+      2,
+      21,
+      20,
+      12
+    ],
+    "hasOA": true
+  },
+  "timestamp": 1676993177513
+}
